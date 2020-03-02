@@ -31,4 +31,4 @@ Example:
 `python3 main.py pisos houses`
 
 # Example dataset
-Some extracted data can be found in the folder `/dataset` (~30.000 entries in total).
+The extracted data can be found in the file `/dataset/madrid_immo.csv` (~30.000 entries in total).
