@@ -2,9 +2,7 @@
     MadridImmo
 </h1>
 <p align="center">
-<sup>
 <b>Webscraping of house prices in Madrid, using Python and BeautifulSoup</b>
-</sup>
 </p>
 
 # Dependencies
