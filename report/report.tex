@@ -1,0 +1,192 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{natbib}
+\bibliographystyle{plainnat}
+\usepackage{caption,setspace}
+
+% Tikz packages
+\usepackage{tikz}
+\usepackage{tkz-graph}
+\usetikzlibrary{decorations.pathreplacing}
+\usetikzlibrary{matrix,backgrounds}
+\usetikzlibrary{arrows.meta}
+
+% Added packages
+\usepackage{url}
+\usepackage{colortbl}
+\usepackage[gen]{eurosym}
+\usepackage{svg}
+
+% Custom commands
+\newcommand{\eur}{\euro\ }
+\newcommand{\ezskip}{\medskip\noindent}
+
+\begin{document}
+	\begin{center}
+    
+		\LARGE{\textbf{Wepscraping house prices in Madrid}} \\
+        \vspace{1em}
+        \normalsize\textbf{Habib Slim} \\
+        \normalsize\texttt{{habib.slim@grenoble-inp.org}} \\
+        \vspace{1em}
+        \normalsize{National School of Computer Science and Applied Mathematics, Grenoble} \\
+
+        \vspace{1em}
+        \renewcommand{\abstractname}{\large{Abstract}}
+
+	\end{center}
+    \begin{normalsize}
+    
+    	\section{Introduction}
+
+        As part of the proposed webscraping challenge, we were asked to build a database with information about dwelling  prices for houses and flats in a big city in the European Union, using webscraping techniques.
+
+        \ezskip Madrid had a population of approximately 3.2 millions as of 2019\footnote{Source: Municipal Register of Spain 2019 - National Statistics Institute}, and thus qualifies for this challenge.
+
+    	\ezskip
+    	Only the websites providing services exclusively in the real estate category were used, and websites specialized in luxury real estate were excluded.
+    	
+    	\ezskip
+    	In order to determine which websites are more appropriate to gather information about real estate prices in Madrid, multiple metrics could have been considered to rank the most relevant sources. 
+
+    	\ezskip The following were chosen:
+    
+    	\begin{itemize}
+    	    \item Number of estimated monthly visits (using SimilarWeb\footnote{See for example: \url{http://similarweb.com/website/pisos.com}.} as a reference)
+            \item Number of currently available offers for houses and flats located in the Madrid capital\footnote{Those figures are directly provided by real estate websites when using their search tool.}.
+    	\end{itemize}
+
+    	\begin{table}[h!]
+          \begin{center}
+            \label{tab:table1}
+            \begin{tabular}{l|l|l|l}
+                \textbf{Website name} & \textbf{Monthly visits (millions)} & \textbf{Number of offers (houses)} & \textbf{Number of offers (flats)}\\ % <-- added & and content for each column
+                \hline
+                     Idealista.com  & 33.50 & $\approx$ 2.000  & $\approx$ 23.600 \\ % <--
+                     Fotocasa.es    & 14.79 & $\approx$ 1.000  & $\approx$ 27.000 \\ % <--
+\rowcolor[gray]{0.9} Habitaclia.com & 9.88  & $\approx$ 1.000  & $\approx$ 14.000 \\ % <--
+\rowcolor[gray]{0.9} Pisos.com      & 6.20  & $\approx$ 1.000  & $\approx$ 14.000 \\ % <--
+                     Yaencontre.com & 3.05  & $\approx$ 500    & $\approx$  6.000 \\ % <--
+\rowcolor[gray]{0.9} Tucasa.com     & 2.17  & $\approx$ 2.000  & $\approx$ 10.000 \\ % <--
+            \end{tabular}
+            \caption{Basic comparison of top spanish real estate websites.}
+          \end{center}
+        \end{table}
+        
+        \ezskip Idealista and Fotocasa were ideal candidates regarding the volume of data, however their Terms of Services explicitly forbid the use of automated scrapers on their services\footnote{In the case of Idealista, the contents of the website can still potentially be fetched by making a formal request to use their search API.}.
+        
+        \ezskip For this preliminary challenge, Habitaclia, Pisos and Tucasa were chosen as targets for the scraping (highlighted in gray in the previous table). The solution that I provide uses Python, BeautifulSoup and pandas - and will take at most 20 seconds to scrape 15.000 entries.
+
+        \ezskip A short user manual is given in the GitHub repository for this project\footnote{\url{https://github.com/HabibSlim/MadridImmo}}.
+
+        \newpage
+		\section{Produced dataset}
+		\subsection{Description}
+        
+        A short description of the produced dataset (file \texttt{"madrid\_immo.csv"} in the \texttt{dataset} folder) will be given here. \ezskip
+        
+        Below is the list of fields provided for every entry:
+
+        \begin{itemize}
+            \item \texttt{url}: The link to the description of the offer on the realtor website.
+            \item \texttt{address}: The address of the property to be sold.
+            \item \texttt{loc}: The localization of the property to be sold.
+            \item \texttt{price}: The price in euros.
+            \item \texttt{m2}: The floor area in square meters.
+            \item \texttt{type}: The type of dwelling ("house" or "flat").
+        \end{itemize}
+        
+        Since a precise address for the properties is rarely disclosed by the chosen target websites, the "\texttt{address}" field is most of the time quite sparse\footnote{In the case of the entries extracted from Habitaclia.com, addresses are not disclosed at all.}. However, a district name is always provided, which enables us to localize properties quite accurately: in order to store this information, the "\texttt{loc}" field was added.
+        
+        \ezskip
+        
+    	\begin{table}[h!]
+          \begin{center}
+            \label{tab:table2}
+            \begin{tabular}{l|l|l|l}
+                \textbf{Website name} & \textbf{Number of entries (flats)} & \textbf{Number of entries (houses)} & \textbf{Total}\\ % <-- added & and content for each column
+                \hline
+                Habitaclia.com & 13.245 & 1.110 & 14.355 \\ % <--
+                Pisos.com      & 3.000  & 655   & 3.655  \\ % <--
+                Tucasa.com     & 10.000 & 2.055 & 12.055 \\ % <--
+                \hline
+                \textbf{Total} & 26.245 & 3.820 & \textbf{30.065} \\ % <--
+            \end{tabular}
+            \caption{Number of entries scraped for each target website.}
+          \end{center}
+        \end{table}
+
+        For Pisos.com, there is a fixed limit on the maximum number of pages that can be visited through a unique search (searches here are defined by the set of criteria specified by the user to select through the property database).
+        
+        \ezskip This could be bypassed by using multiple searches with different criteria (\textit{example:} searching for flats with prices ranging from 0\eur to 100.00\euro, then from 100.00\eur to 200.00\euro, etc.) - however this potential solution to this problem has not been explored yet.
+        
+        \ezskip Below are some rows extracted from the dataset as an illustration:
+        
+        \ezskip
+
+    	\begin{table}[h!]
+          \begin{center}
+            \label{tab:table3}
+            \begin{tabular}{l|l|l|l|l|l}
+                \textbf{URL} & \textbf{Address} & \textbf{Localization} & \textbf{Price} & \textbf{$m^2$} & \textbf{Type}\\ % <-- added & and content for each column
+                \hline
+                $[..]$/comprar/casa-puente\_de$[..]$ & calle de mejorana, near $[..]$ & Entrevías & 128000 & 76.0 & house \\ % <--
+                $[..]$/comprar/chalet\_adosado$[..]$ & hispanoamerica & Hispanoamérica & 990000 & 287.0 & house \\ % <--
+                $[..]$/comprar/chalet-nino\_je$[..]$ & niño jesús & Niño Jesús      & 1318000 & 263.0 & house \\ % <--
+                $[..]$/comprar/chalet-puente\_$[..]$ & calle de membezar, near $[..]$ & Entrevías & 139000 & 69.0 & house \\ % <--
+                $[..]$/comprar/chalet-chamart$[..]$ & chamartin & Hispanoamérica & 1390000 & 370.0 & house \\ % <--
+            \end{tabular}
+            \caption{Some entries from the \texttt{madrid\_immo.csv} file.}
+          \end{center}
+        \end{table}
+        
+        \newpage
+		\subsection{Preliminary exploration}
+        
+        We can now do some preliminary exploration of the data scraped. In the "\texttt{mapbuild}" notebook (located in the "explore" directory of the repository) is a toy exercise with some simple manipulations on the scraped data, in order to compute the average price per square meter for every district in the city. \ezskip
+        
+        After some filtering, here are some of the computed values for the following districts\footnote{All of the remaining values can be accessed from the provided Jupyter notebook.}:
+        
+        \ezskip
+
+    	\begin{table}[h!]
+          \begin{center}
+            \label{tab:table4}
+            \begin{tabular}{l|l|l}
+                \textbf{District} & \textbf{Price per $m^2$ (euros)} & \textbf{Margin of error (euros, $\alpha = 0.95$)}\\ % <-- added & and content for each column
+                \hline
+                Arganzuela  & 3994.92  & $\pm$ 49.50 \\
+                Barajas     & 3067.08  & $\pm$ 70.91 \\
+                Carabanchel & 2219.89  & $\pm$ 27.01 \\
+                Centro      & 4948.70  & $\pm$ 66.58 \\
+                Chamartín   & 5391.62  & $\pm$ 77.38 \\
+                Chamberí    & 5409.88  & $\pm$ 67.29 \\
+                ...         &          &             \\
+                \hline
+                \textbf{All districts} & 3818.42 & $\pm$ 24.28  \\ % <--
+            \end{tabular}
+            \caption{Average price per square meter in some Madrid districts}
+          \end{center}
+        \end{table}
+        
+        From those values, we build the following map of average prices per square meter for every district in Madrid:
+        
+        \begin{figure}[htbp]
+            \centering
+            \includesvg[width = 375pt]{map.svg}
+            \caption{Average price per square meters for each district in Madrid.}
+        \end{figure}
+        
+        
+        \newpage
+    	\section{Conclusion}
+    	
+    	The provided dataset covers most of the currently available offers for houses and flats in Madrid provided by the three websites targeted for this project (Habitaclia, Pisos and Tucasa), for a total of around 30.000 entries.
+
+    	\ezskip This dataset can be practically used as shown in section 2, given some filtering of the values is realized. It can also be extended using additional websites/aggregators, and APIs.
+    	
+\end{normalsize}
+  
+\end{document}

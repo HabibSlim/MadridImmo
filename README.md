@@ -5,6 +5,10 @@
 <b>Webscraping of house prices in Madrid, using Python and BeautifulSoup</b>
 </p>
 
+<h1 align="center">
+    <img src="explore/snap_map.png">
+</h1>
+
 # Dependencies
 Below are the dependencies needed to run the project:
 
