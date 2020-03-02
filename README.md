@@ -1,5 +1,11 @@
-# MadridImmo
-Webscraping of house prices in Madrid, using Python and BeautifulSoup
+<h1 align="center">
+    MadridImmo
+</h1>
+<p align="center">
+<sup>
+<b>Webscraping of house prices in Madrid, using Python and BeautifulSoup</b>
+</sup>
+</p>
 
 # Dependencies
 Below are the dependencies needed to run the project:
