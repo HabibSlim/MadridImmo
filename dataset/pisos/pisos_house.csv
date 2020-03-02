@@ -1,0 +1,656 @@
+,url,address,loc,price,m2,type
+0,https://pisos.com/en/comprar/casa-puente_de_vallecas_entrevias28053-1667433787_108900/,"calle de mejorana, near calle del conde rodríguez san pedro",Entrevías,128000,76,house
+1,https://pisos.com/en/comprar/chalet_adosado-chamartin_hispanoamerica28016-864949405_105100/,hispanoamerica,Hispanoamérica,990000,287,house
+2,https://pisos.com/en/comprar/chalet-nino_jesus28007-94229298353_105100/,niño jesús,Niño Jesús,1318000,263,house
+3,https://pisos.com/en/comprar/chalet-puente_de_vallecas_entrevias28053-1748365393_108900/,"calle de membezar, near calle de la campiña",Entrevías,139000,69,house
+4,https://pisos.com/en/comprar/chalet-chamartin_hispanoamerica28016-542217109_149200/,chamartin,Hispanoamérica,1390000,370,house
+5,https://pisos.com/en/comprar/casa_adosada-san_blas_rosas28022-94250823663_100500/,madrid,Rosas,750000,300,house
+6,https://pisos.com/en/comprar/chalet-nueva_espana28016-94223231420_101800/,chamartín - nueva españa,Nueva España,1495000,470,house
+7,https://pisos.com/en/comprar/casa_pareada-nueva_espana28016-1756428305_101800/,"calle de triana, near calle de san telmo",Nueva España,1600000,401,house
+8,https://pisos.com/en/comprar/chalet-castilla28036-945856909384926_109700/,calle de poniente,Castilla,1100000,301,house
+9,https://pisos.com/en/comprar/casa-casco_historico_de_barajas-95038266656_514289/,casco histórico de barajas,Casco Histórico de Barajas,750000,338,house
+10,https://pisos.com/en/comprar/casa-mirasierra28034-90054168564_101800/,"calle de cambrils, nº 53",Mirasierra-Arroyo del Fresno,1395000,467,house
+11,https://pisos.com/en/comprar/chalet-piovera28043-77562615058_101600/,parque conde de orgaz,Piovera,2400000,320,house
+12,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-84237951662_101600/,retiro - jerónimos,Ciudad Universitaria,975000,430,house
+13,https://pisos.com/en/comprar/casa_adosada-mirasierra_arroyo_del_fresno28034-95882654871_101800/,"calle de marbella, nº 59",Mirasierra-Arroyo del Fresno,1330000,383,house
+14,https://pisos.com/en/comprar/chalet-san_blas_rosas28022-908473387_108900/,"calle de versalles, near calle de nîmes",Rosas,660000,290,house
+15,https://pisos.com/en/comprar/chalet-nueva_espana28016-89216439993_101800/,chamartín - nueva españa,Nueva España,2990000,714,house
+16,https://pisos.com/en/comprar/casa_pareada-ciudad_universitaria28035-93421199125_101800/,moncloa - ciudad universitaria,Ciudad Universitaria,1395000,463,house
+17,https://pisos.com/en/comprar/casa_pareada-piovera28043-95879222678_101800/,avenida de carondelet,Piovera,1800000,366,house
+18,https://pisos.com/en/comprar/casa_unifamiliar-ciudad_lineal_quintana-100049897207_100200/,quintana,Quintana,399000,132,house
+19,https://pisos.com/en/comprar/chalet-hortaleza_canillas28043-100022848514_100500/,"calle de antonio cavero, near calle de santa natalia",Canillas,1500000,558,house
+20,https://pisos.com/en/comprar/chalet_pareado-chamartin_hispanoamerica28016-1744723929_149200/,hispanoamérica,Hispanoamérica,1590000,184,house
+21,https://pisos.com/en/comprar/casa_unifamiliar-ciudad_universitaria28035-1731646369_100200/,calle ramón crespo,Ciudad Universitaria,579000,268,house
+22,https://pisos.com/en/comprar/chalet_adosado-piovera28043-93354130090_102100/,canillas,Piovera,1300000,440,house
+23,https://pisos.com/en/comprar/casa_unifamiliar-san_blas_simancas28037-100024533342_100200/,simancas,Simancas,185000,94,house
+24,https://pisos.com/en/comprar/chalet_pareado-fuencarral_el_pardo_valverde28034-98377925113_102100/,mirasierra,Valverde,1850000,653,house
+25,https://pisos.com/en/comprar/casa_adosada-puerta_del_angel-95912890938_100200/,puerta del ángel,Puerta del Ángel,415000,172,house
+26,https://pisos.com/en/comprar/casa-chamartin_el_viso28002-931504972_108900/,calle de la madre carmen del niño jesús,El Viso,2430000,331,house
+27,https://pisos.com/en/comprar/casa_adosada-carabanchel_san_isidro28019-100047638548_100200/,san isidro,San Isidro,277000,120,house
+28,https://pisos.com/en/comprar/casa-latina_carmenes28047-1706826444_101800/,"calle de gallur, near calle escalonilla",Cármenes,180000,100,house
+29,https://pisos.com/en/comprar/chalet-guindalera28028-1738469625_440000/,"calle del pilar de zaragoza, near avenida de los toreros",Guindalera,800000,213,house
+30,https://pisos.com/en/comprar/casa-puente_de_vallecas_entrevias28053-1667433787_108900/,"calle de mejorana, near calle del conde rodríguez san pedro",Entrevías,128000,76,house
+31,https://pisos.com/en/comprar/chalet_adosado-chamartin_hispanoamerica28016-864949405_105100/,hispanoamerica,Hispanoamérica,990000,287,house
+32,https://pisos.com/en/comprar/chalet-nino_jesus28007-94229298353_105100/,niño jesús,Niño Jesús,1318000,263,house
+33,https://pisos.com/en/comprar/chalet-puente_de_vallecas_entrevias28053-1748365393_108900/,"calle de membezar, near calle de la campiña",Entrevías,139000,69,house
+34,https://pisos.com/en/comprar/chalet-chamartin_hispanoamerica28016-542217109_149200/,chamartin,Hispanoamérica,1390000,370,house
+35,https://pisos.com/en/comprar/casa_adosada-san_blas_rosas28022-94250823663_100500/,madrid,Rosas,750000,300,house
+36,https://pisos.com/en/comprar/chalet-nueva_espana28016-94223231420_101800/,chamartín - nueva españa,Nueva España,1495000,470,house
+37,https://pisos.com/en/comprar/casa_pareada-nueva_espana28016-1756428305_101800/,"calle de triana, near calle de san telmo",Nueva España,1600000,401,house
+38,https://pisos.com/en/comprar/chalet-castilla28036-945856909384926_109700/,calle de poniente,Castilla,1100000,301,house
+39,https://pisos.com/en/comprar/casa-casco_historico_de_barajas-95038266656_514289/,casco histórico de barajas,Casco Histórico de Barajas,750000,338,house
+40,https://pisos.com/en/comprar/casa-mirasierra28034-90054168564_101800/,"calle de cambrils, nº 53",Mirasierra-Arroyo del Fresno,1395000,467,house
+41,https://pisos.com/en/comprar/chalet-piovera28043-77562615058_101600/,parque conde de orgaz,Piovera,2400000,320,house
+42,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-84237951662_101600/,retiro - jerónimos,Ciudad Universitaria,975000,430,house
+43,https://pisos.com/en/comprar/casa_adosada-mirasierra_arroyo_del_fresno28034-95882654871_101800/,"calle de marbella, nº 59",Mirasierra-Arroyo del Fresno,1330000,383,house
+44,https://pisos.com/en/comprar/chalet-san_blas_rosas28022-908473387_108900/,"calle de versalles, near calle de nîmes",Rosas,660000,290,house
+45,https://pisos.com/en/comprar/chalet-nueva_espana28016-89216439993_101800/,chamartín - nueva españa,Nueva España,2990000,714,house
+46,https://pisos.com/en/comprar/casa_pareada-ciudad_universitaria28035-93421199125_101800/,moncloa - ciudad universitaria,Ciudad Universitaria,1395000,463,house
+47,https://pisos.com/en/comprar/casa_pareada-piovera28043-95879222678_101800/,avenida de carondelet,Piovera,1800000,366,house
+48,https://pisos.com/en/comprar/casa_unifamiliar-ciudad_lineal_quintana-100049897207_100200/,quintana,Quintana,399000,132,house
+49,https://pisos.com/en/comprar/chalet-hortaleza_canillas28043-100022848514_100500/,"calle de antonio cavero, near calle de santa natalia",Canillas,1500000,558,house
+50,https://pisos.com/en/comprar/chalet_pareado-chamartin_hispanoamerica28016-1744723929_149200/,hispanoamérica,Hispanoamérica,1590000,184,house
+51,https://pisos.com/en/comprar/casa_unifamiliar-ciudad_universitaria28035-1731646369_100200/,calle ramón crespo,Ciudad Universitaria,579000,268,house
+52,https://pisos.com/en/comprar/chalet_adosado-piovera28043-93354130090_102100/,canillas,Piovera,1300000,440,house
+53,https://pisos.com/en/comprar/casa_unifamiliar-san_blas_simancas28037-100024533342_100200/,simancas,Simancas,185000,94,house
+54,https://pisos.com/en/comprar/chalet_pareado-fuencarral_el_pardo_valverde28034-98377925113_102100/,mirasierra,Valverde,1850000,653,house
+55,https://pisos.com/en/comprar/casa_adosada-puerta_del_angel-95912890938_100200/,puerta del ángel,Puerta del Ángel,415000,172,house
+56,https://pisos.com/en/comprar/casa-chamartin_el_viso28002-931504972_108900/,calle de la madre carmen del niño jesús,El Viso,2430000,331,house
+57,https://pisos.com/en/comprar/casa_adosada-carabanchel_san_isidro28019-100047638548_100200/,san isidro,San Isidro,277000,120,house
+58,https://pisos.com/en/comprar/casa-latina_carmenes28047-1706826444_101800/,"calle de gallur, near calle escalonilla",Cármenes,180000,100,house
+59,https://pisos.com/en/comprar/chalet-guindalera28028-1738469625_440000/,"calle del pilar de zaragoza, near avenida de los toreros",Guindalera,800000,213,house
+60,https://pisos.com/en/comprar/casa_adosada-hortaleza_canillas28043-1707857515_100200/,"calle de gomeznarro, near calle de andorra",Canillas,285000,66,house
+61,https://pisos.com/en/comprar/chalet-latina_carmenes28047-100031376105_108900/,"calle de gallur, near calle escalonilla",Cármenes,143400,70,house
+62,https://pisos.com/en/comprar/casa-hortaleza_canillas28043-90873765433_100200/,"calle de palermo, near calle de ulises",Canillas,1350000,724,house
+63,https://pisos.com/en/comprar/casa-numancia28038-99264967847_101800/,puente de vallecas - numancia -cn. santa ana,Numancia,210000,190,house
+64,https://pisos.com/en/comprar/casa-bellas_vistas28039-95923453885_517810/,"calle de san raimundo, near calle de francisco salas",Bellas Vistas,174000,60,house
+65,https://pisos.com/en/comprar/chalet_pareado-chamartin_prosperidad28002-841180703_102100/,ciudad jardín,Prosperidad,1175000,292,house
+66,https://pisos.com/en/comprar/casa_unifamiliar-carabanchel_vista_alegre28025-95836161230_100200/,vista alegre,Vista Alegre,600000,551,house
+67,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9108117514_109700/,"calle cerro del tesoro,  s/n",El Cañaveral,350000,205,house
+68,https://pisos.com/en/comprar/casa_adosada-penagrande28035-97508051347_100200/,peñagrande,Peñagrande,529000,132,house
+69,https://pisos.com/en/comprar/casa_adosada-corralejos28042-1684618268_995477/,corralejos,Corralejos,662000,223,house
+70,https://pisos.com/en/comprar/chalet_pareado-san_blas_rosas28022-93404361813_102100/,piovera - col. alfonso xiii,Rosas,1133000,258,house
+71,https://pisos.com/en/comprar/casa_adosada-valdemarin-9429158234_109700/,"calle de darío aparicio,  15",Valdemarín,1343600,358,house
+72,https://pisos.com/en/comprar/casa-san_diego28053-99200185413_100200/,"calle de martínez de la riva, near calle de tomás esteban",San Diego,1200000,850,house
+73,https://pisos.com/en/comprar/chalet-chamartin_prosperidad28002-95900698108_102100/,prosperidad,Prosperidad,1750000,320,house
+74,https://pisos.com/en/comprar/chalet_adosado-tetuan_cuatro_caminos28020-1715789240_102100/,el encinar de los reyes,Cuatro Caminos,1530000,418,house
+75,https://pisos.com/en/comprar/chalet-san_blas_salvador28027-97589322781_100500/,salvador,Salvador,880000,336,house
+76,https://pisos.com/en/comprar/casa-penagrande28035-99168191444_101800/,"calle de inocencio fernández, near calle de otero y delage",Peñagrande,460000,168,house
+77,https://pisos.com/en/comprar/casa_unifamiliar-fuente_del_berro28028-840744660_100200/,fuente del berro,Fuente del Berro,1595000,500,house
+78,https://pisos.com/en/comprar/chalet-san_blas_canillejas28022-12023780_381300/,san blas,Canillejas,790000,338,house
+79,https://pisos.com/en/comprar/casa_adosada-moncloa_aravaca_aravaca28023-77546854844_100100/,paseo de la rinconada,Aravaca,1590000,360,house
+80,https://pisos.com/en/comprar/chalet-piovera28043-96670843443_511322/,calle del estrecho de mesina,Piovera,1199000,320,house
+81,https://pisos.com/en/comprar/casa-ciudad_universitaria28035-99249828285_101800/,avenida real,Ciudad Universitaria,2500000,722,house
+82,https://pisos.com/en/comprar/casa_unifamiliar-moncloa_aravaca_el_plantio-79222177288_100100/,"avenida de la victoria, near calle de fernando oriol",El Plantío,985000,235,house
+83,https://pisos.com/en/comprar/casa_adosada-valdemarin-9482512718_109700/,"calle de darío aparicio,  15",Valdemarín,1497800,410,house
+84,https://pisos.com/en/comprar/casa_adosada-penagrande28035-9835697740_109700/,"calle de ramón gómez de la serna,  60-62",Peñagrande,917700,265,house
+85,https://pisos.com/en/comprar/chalet-castilla28016-945856908403289_109700/,paseo de los cerezos,Castilla,1450000,370,house
+86,https://pisos.com/en/comprar/chalet-fuentelarreina28035-99204337019_101800/,"calle de siguero, nº 18",Fuentelarreina,1650000,700,house
+87,https://pisos.com/en/comprar/casa_unifamiliar-fuencarral_el_pardo_el_pardo28023-945856909224690_109700/,calle de casiopea,El Pardo,2480000,870,house
+88,https://pisos.com/en/comprar/casa_adosada-penagrande28035-9849921214_109700/,"calle de ramón gómez de la serna,  60-62",Peñagrande,927700,350,house
+89,https://pisos.com/en/comprar/chalet_adosado-timon28042-97585439626_996152/,timón,Timón,695000,310,house
+90,https://pisos.com/en/comprar/chalet_pareado-hortaleza_canillas28043-91716271252_998130/,canillas,Canillas,1450000,360,house
+91,https://pisos.com/en/comprar/chalet_adosado-fuencarral_el_pardo_el_pardo28035-1667879641_520609/,calle de fernández cid,El Pardo,989000,407,house
+92,https://pisos.com/en/comprar/casa-moncloa_aravaca_el_plantio-100097761640_101800/,"calle paradores, nº 3",El Plantío,2350000,700,house
+93,https://pisos.com/en/comprar/casa-ciudad_universitaria28035-59216001605_100100/,moncloa,Ciudad Universitaria,1850000,900,house
+94,https://pisos.com/en/comprar/casa-chamartin_hispanoamerica28016-1671961381_100100/,avenida de aster,Hispanoamérica,1800001,326,house
+95,https://pisos.com/en/comprar/casa-fuencarral_el_pardo_el_pardo28035-945856909049342_109700/,puerta del hierro,El Pardo,1095000,500,house
+96,https://pisos.com/en/comprar/chalet_pareado-chamartin_hispanoamerica28016-894636695_996140/,"calle de las endrinas, nº 12",Hispanoamérica,1590000,184,house
+97,https://pisos.com/en/comprar/casa_adosada-chamartin_hispanoamerica28016-1710863730_100100/,chamartín,Hispanoamérica,820000,150,house
+98,https://pisos.com/en/comprar/casa-valdebebas_valdefuentes28055-98371387355_996152/,el encinar de los reyes,Valdebebas-Valdefuentes,1590000,360,house
+99,https://pisos.com/en/comprar/chalet_pareado-chamartin_el_viso28002-95093455441_996152/,el viso,El Viso,2300000,351,house
+100,https://pisos.com/en/comprar/casa-penagrande28035-97564261906_106200/,peñagrande,Peñagrande,4250000,1.850,house
+101,https://pisos.com/en/comprar/chalet-nueva_espana28016-974686344_443500/,calle de la macarena,Nueva España,7900000,762,house
+102,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28034-96738159243_101800/,fuencarral - mirasierra,Mirasierra-Arroyo del Fresno,2190000,875,house
+103,https://pisos.com/en/comprar/casa-hortaleza_canillas28043-100016683624_101800/,"calle de antonio cavero, near calle gómez de baquero",Canillas,950000,381,house
+104,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-97579894172_101800/,moncloa - la florida -  el  plantío,El Plantío,2250000,800,house
+105,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9854542070_109700/,"calle charquilla,  s/n",El Cañaveral,343000,248,house
+106,https://pisos.com/en/comprar/casa-chamartin_el_viso28002-98352634534_106200/,el viso,El Viso,5000000,682,house
+107,https://pisos.com/en/comprar/chalet-chamartin_el_viso28002-99207689591_102200/,el viso,El Viso,8700000,856,house
+108,https://pisos.com/en/comprar/casa_adosada-el_canaveral-164709305_109700/,"calle charquilla,  s/n",El Cañaveral,348000,248,house
+109,https://pisos.com/en/comprar/chalet-san_blas_canillejas28022-945856909535683_109700/,canillejas-san blas,Canillejas,1040000,460,house
+110,https://pisos.com/en/comprar/chalet_adosado-fuencarral_el_pardo_el_pardo28049-84256293039_102100/,montecarmelo,El Pardo,920000,180,house
+111,https://pisos.com/en/comprar/casa_pareada-castilla28036-92597938036_101000/,chanmartin de la rosa,Castilla,830000,140,house
+112,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28034-98338264883_101800/,fuencarral - mirasierra,Mirasierra-Arroyo del Fresno,3300000,682,house
+113,https://pisos.com/en/comprar/chalet_adosado-san_blas_rosas28022-92595680390_102100/,rejas,Rosas,525000,282,house
+114,https://pisos.com/en/comprar/chalet-nino_jesus28007-95053105211_106700/,"calle de ángel ganivet, nº 7",Niño Jesús,1150000,137,house
+115,https://pisos.com/en/comprar/casa-valdebebas_valdefuentes28055-92584506672_101800/,calle de vicente huidobro,Valdebebas-Valdefuentes,2495000,1.000,house
+116,https://pisos.com/en/comprar/chalet-penagrande28035-945856909538889_109700/,fuencarral-peñagrande,Peñagrande,1090000,500,house
+117,https://pisos.com/en/comprar/chalet-madrid_capital_zona_urbana-1729114891_108900/,calle de la cabaña,Madrid Capital,175000,185,house
+118,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_valverde28034-918164305_107700/,calle del caballero de la triste figura,Valverde,1240000,450,house
+119,https://pisos.com/en/comprar/chalet_pareado-penagrande28035-99237436885_102100/,peñagrande,Peñagrande,870000,350,house
+120,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28034-95063701481_101800/,fuencarral - mirasierra,Mirasierra-Arroyo del Fresno,1395000,467,house
+121,https://pisos.com/en/comprar/chalet-chamartin_hispanoamerica28016-945856908742661_109700/,"chamartín, hispanoamérica",Hispanoamérica,1390000,400,house
+122,https://pisos.com/en/comprar/chalet-fuente_del_berro28028-93365360160_107700/,"calle de dolores romero, nº 49",Fuente del Berro,1090000,272,house
+123,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-88396965592_101800/,calle de amorebieta,El Plantío,7800000,2.400,house
+124,https://pisos.com/en/comprar/chalet_adosado-hortaleza_canillas28043-848893308_517300/,"calle de gomeznarro, near calle de andorra",Canillas,320000,96,house
+125,https://pisos.com/en/comprar/chalet-piovera28043-99169933006_101800/,avenida de carondelet,Piovera,1290000,445,house
+126,https://pisos.com/en/comprar/casa-san_blas_canillejas28022-94200422274_511811/,calle del néctar,Canillejas,799000,295,house
+127,https://pisos.com/en/comprar/chalet_adosado-rejas28022-95911886543_519604/,calle de gualda,Rejas,420000,130,house
+128,https://pisos.com/en/comprar/chalet_adosado-mirasierra_arroyo_del_fresno28034-97544273065_515749/,mirasierra-arroyo del fresno,Mirasierra-Arroyo del Fresno,1187500,305,house
+129,https://pisos.com/en/comprar/chalet-berruguete28039-93396803444_102100/,las lomas,Berruguete,1000000,583,house
+130,https://pisos.com/en/comprar/casa-aeropuerto28042-90879680035_517300/,calle de alhóndiga,Aeropuerto,859000,800,house
+131,https://pisos.com/en/comprar/chalet-piovera28043-1684005972_100500/,conde de orgaz,Piovera,2900000,1.090,house
+132,https://pisos.com/en/comprar/chalet-hortaleza_palomas28042-92539899473_108500/,palomas,Palomas,765000,335,house
+133,https://pisos.com/en/comprar/casa_pareada-chamartin_ciudad_jardin28002-97540724354_100200/,calle de la pedriza,Ciudad Jardín,890000,206,house
+134,https://pisos.com/en/comprar/casa_adosada-moncloa_aravaca_el_plantio-1739177878_107700/,calle de gerda taro,El Plantío,860000,320,house
+135,https://pisos.com/en/comprar/casa_adosada-mirasierra28034-92511828234_101000/,urbanización mirasierra,Mirasierra-Arroyo del Fresno,840000,303,house
+136,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-94266026840_519083/,avenida de la osa mayor,Aravaca,998000,306,house
+137,https://pisos.com/en/comprar/chalet-rejas28022-99228585693_107000/,"avenida fuentelviejo 5b, nº 5",Rejas,578100,215,house
+138,https://pisos.com/en/comprar/chalet-hortaleza_palomas28042-914571284_100500/,"calle de guadalajara, nº 36",Palomas,1240000,252,house
+139,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-99166820198_107000/,calle de amorebieta,El Plantío,2752800,1.245,house
+140,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28034-98413332797_995797/,mirasierra-arroyo del fresno,Mirasierra-Arroyo del Fresno,1890000,600,house
+141,https://pisos.com/en/comprar/chalet-penagrande28035-99208006340_100500/,peñagrande,Peñagrande,850000,350,house
+142,https://pisos.com/en/comprar/chalet-nueva_espana28036-945856909447899_109700/,"paseo de la habana, near calle de mateo inurria",Nueva España,2200000,481,house
+143,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28034-883611019_995797/,mirasierra-arroyo del fresno,Mirasierra-Arroyo del Fresno,1650000,320,house
+144,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-85068901751_107200/,"calle de hoces de la hermida, near calle de vallter",Aravaca,1750000,600,house
+145,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-95096164270_511009/,calle de cercis,Aravaca,1350000,341,house
+146,https://pisos.com/en/comprar/casa-centro_embajadores_lavapies28012-839184957_107700/,ronda de atocha,Embajadores-Lavapiés,470000,99,house
+147,https://pisos.com/en/comprar/chalet-piovera28043-1763438561_100500/,conde de orgaz,Piovera,1590000,391,house
+148,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9815025329_109700/,"calle charquilla,  s/n",El Cañaveral,353000,248,house
+149,https://pisos.com/en/comprar/casa-mirasierra_arroyo_del_fresno28034-97554185334_995797/,mirasierra,Mirasierra-Arroyo del Fresno,1187500,300,house
+150,https://pisos.com/en/comprar/casa-puente_de_vallecas_portazgo28018-1698108247_996584/,"calle de alcalá de guadaira, near calle del arroyo del olivar",Portazgo,140000,106,house
+151,https://pisos.com/en/comprar/casa_adosada-timon28042-92542818350_101000/,timón - barajas,Timón,590000,238,house
+152,https://pisos.com/en/comprar/casa-ciudad_universitaria28035-93374363865_100500/,ciudad universitaria,Ciudad Universitaria,4000000,750,house
+153,https://pisos.com/en/comprar/casa-casco_historico_de_barajas-1686962615_101800/,barajas - casco histórico de barajas,Casco Histórico de Barajas,569900,282,house
+154,https://pisos.com/en/comprar/casa-berruguete28039-95836692331_107700/,calle del nenúfar,Berruguete,725000,311,house
+155,https://pisos.com/en/comprar/chalet-piovera28043-99166765738_102200/,parque del conde de orgaz,Piovera,4000000,707,house
+156,https://pisos.com/en/comprar/casa_pareada-valdeacederas28039-1705575743_100100/,calle del aligustre,Valdeacederas,620000,213,house
+157,https://pisos.com/en/comprar/casa_pareada-alameda_de_osuna_barrio-1707218024_100100/,calle de la carabela,Alameda de Osuna,840000,323,house
+158,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-945856908223727_109700/,casaquemada,El Plantío,7000000,1.190,house
+159,https://pisos.com/en/comprar/casa_unifamiliar-san_blas_salvador28027-97591499843_101000/,arturo soria,Salvador,750000,220,house
+160,https://pisos.com/en/comprar/chalet-piovera28043-85029449065_107200/,hortaleza,Piovera,1650000,430,house
+161,https://pisos.com/en/comprar/chalet_adosado-penagrande28035-99254281059_102100/,peñagrande,Peñagrande,990000,488,house
+162,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-1687732239_107000/,calle horche,Aravaca,2404800,,house
+163,https://pisos.com/en/comprar/casa_pareada-piovera28043-1690713868_101800/,"calle de ángel cavero, nº 18",Piovera,1700000,550,house
+164,https://pisos.com/en/comprar/chalet_unifamiliar-ciudad_universitaria28035-84219056200_511009/,ciudad universitaria,Ciudad Universitaria,2500000,750,house
+165,https://pisos.com/en/comprar/casa_pareada-penagrande28035-1740729025_100500/,calle de antonia baena,Peñagrande,850000,414,house
+166,https://pisos.com/en/comprar/casa_pareada-penagrande28035-98372730062_101800/,"calle de antonia baena, nº 15",Peñagrande,850000,383,house
+167,https://pisos.com/en/comprar/casa-rejas28022-1757233272_100500/,"calle de fuentelviejo, nº 5b",Rejas,578100,215,house
+168,https://pisos.com/en/comprar/chalet_unifamiliar-moncloa_aravaca_aravaca28023-92562923689_511009/,colónia santa maría,Aravaca,870000,224,house
+169,https://pisos.com/en/comprar/casa-chamartin_ciudad_jardin28016-100064640089_511009/,"avenida de ramón y cajal, near calle de guerrero y mendoza",Ciudad Jardín,1690000,300,house
+170,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-100040727255_511009/,aravaca,Aravaca,890000,300,house
+171,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28034-99240093706_107000/,avenida laguna grande,Mirasierra-Arroyo del Fresno,2100920,696,house
+172,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28034-1740871595_100500/,"calle de laguna grande, nº 16",Mirasierra-Arroyo del Fresno,2100920,405,house
+173,https://pisos.com/en/comprar/chalet-valdemarin-1719266229_101800/,"avenida de valdemarín, nº 48",Valdemarín,3199000,800,house
+174,https://pisos.com/en/comprar/chalet_pareado-penagrande28035-888820340_102100/,peñagrande,Peñagrande,920000,484,house
+175,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9816353583_109700/,"calle charquilla,  s/n",El Cañaveral,354000,248,house
+176,https://pisos.com/en/comprar/chalet-aeropuerto28042-62543219699_104400/,aeropuerto,Aeropuerto,930000,425,house
+177,https://pisos.com/en/comprar/chalet-chamartin_el_viso28002-945856909539494_109700/,calle de joaquín montes jovellar,El Viso,2200000,220,house
+178,https://pisos.com/en/comprar/chalet-penagrande28035-98382002969_102100/,peñagrande,Peñagrande,430000,96,house
+179,https://pisos.com/en/comprar/casa_unifamiliar-moncloa_aravaca_el_plantio-1735019248_996542/,calle rentería,El Plantío,2800000,1.000,house
+180,https://pisos.com/en/comprar/casa_unifamiliar-moncloa_aravaca_aravaca28023-97581045446_996542/,"calle de ana teresa, near calle de antonio sanfiz",Aravaca,1360000,345,house
+181,https://pisos.com/en/comprar/casa_unifamiliar-valdezarza28035-91757659687_100200/,valdezarza,Valdezarza,575000,435,house
+182,https://pisos.com/en/comprar/chalet-corralejos28042-85909304587_104400/,"calle de burriana, near calle de benifayó",Corralejos,970000,430,house
+183,https://pisos.com/en/comprar/chalet-piovera28043-99207187319_100500/,calle del barón de la torre,Piovera,1850000,845,house
+184,https://pisos.com/en/comprar/casa_adosada-penagrande28035-62511321546_109300/,"calle de las islas aleutianas, nº 10",Peñagrande,730000,346,house
+185,https://pisos.com/en/comprar/chalet-corralejos28042-99212128929_101800/,barajas - corralejos - campo de las naciones,Corralejos,730000,413,house
+186,https://pisos.com/en/comprar/casa-castilla28016-93355895425_517808/,"avenida de alfonso xiii, near avenida de aster",Castilla,3050000,500,house
+187,https://pisos.com/en/comprar/chalet_adosado-fuencarral_el_pardo_valverde28034-864215446_102100/,tres olivos,Valverde,770000,220,house
+188,https://pisos.com/en/comprar/chalet-piovera28043-945856909540755_109700/,ronda de la abubilla,Piovera,4000000,750,house
+189,https://pisos.com/en/comprar/casa-chamartin_hispanoamerica28016-94264001761_517808/,"avenida de alfonso xiii, near avenida de aster",Hispanoamérica,1500000,250,house
+190,https://pisos.com/en/comprar/casa_adosada-san_fermin-100096913289_101000/,san fermin,San Fermín,270000,150,house
+191,https://pisos.com/en/comprar/casa-san_blas_salvador28027-1766440353_108900/,"calle de siro muela, near calle del general aranaz",Salvador,860000,470,house
+192,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_la_paz28034-93337640260_102100/,mirasierra,La Paz,2260000,657,house
+193,https://pisos.com/en/comprar/chalet-lista_barrio28006-100045377983_102100/,el viso,Lista,2400000,372,house
+194,https://pisos.com/en/comprar/chalet-valdemarin-97501585822_108500/,valdemarín,Valdemarín,1520000,410,house
+195,https://pisos.com/en/comprar/chalet_pareado-hortaleza_canillas28043-99171071487_102100/,canillas,Canillas,990000,369,house
+196,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-78337977378_109300/,madrid,Ciudad Universitaria,1780000,300,house
+197,https://pisos.com/en/comprar/chalet_unifamiliar-valdebebas_valdefuentes28050-1699602196_518378/,"calle de la grama, near travesía de antonio lópez torres",Valdebebas-Valdefuentes,585000,225,house
+198,https://pisos.com/en/comprar/chalet_adosado-penagrande28035-93415352536_102100/,peñagrande,Peñagrande,1300000,420,house
+199,https://pisos.com/en/comprar/casa-piovera28043-93429903594_517808/,"calle de josé miguel guridi, near calle de josé rizal",Piovera,1700000,500,house
+200,https://pisos.com/en/comprar/chalet_adosado-fuencarral_el_pardo_valverde28034-93347613041_102100/,fuencarral (valverde),Valverde,165000,51,house
+201,https://pisos.com/en/comprar/casa-jeronimos28014-1693677261_108900/,calle de juan valera,Jerónimos,1500000,350,house
+202,https://pisos.com/en/comprar/chalet_adosado-san_blas_rosas28022-1739910429_102100/,piovera - col. alfonso xiii,Rosas,740000,280,house
+203,https://pisos.com/en/comprar/casa_adosada-rejas28022-99219254250_100500/,rejas,Rejas,210000,142,house
+204,https://pisos.com/en/comprar/casa_rustica-fuencarral_el_pardo_el_pardo28035-95046773607_101800/,fuencarral - el pardo,El Pardo,2350000,450,house
+205,https://pisos.com/en/comprar/casa-hortaleza_canillas28043-1732891277_108900/,"avenida de la gran vía de hortaleza, near calle de benita ávila",Canillas,1400000,478,house
+206,https://pisos.com/en/comprar/casa-moncloa_aravaca_el_plantio-1739475465_100500/,el plantío,El Plantío,2294000,1.245,house
+207,https://pisos.com/en/comprar/chalet-penagrande28035-95884008663_102100/,puerta de hierro,Peñagrande,1395000,382,house
+208,https://pisos.com/en/comprar/chalet_pareado-san_blas_hellin28037-97576329110_102100/,julián camarillo,Hellín,698000,200,house
+209,https://pisos.com/en/comprar/chalet_pareado-penagrande28035-93381262601_102100/,peñagrande,Peñagrande,720000,262,house
+210,https://pisos.com/en/comprar/casa_unifamiliar-ciudad_universitaria28035-92515346021_100200/,ciudad universitaria,Ciudad Universitaria,850000,700,house
+211,https://pisos.com/en/comprar/chalet_pareado-hortaleza_canillas28043-99242261952_102100/,arturo soria,Canillas,785000,296,house
+212,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9878905725_109700/,"calle charquilla,  s/n",El Cañaveral,353000,248,house
+213,https://pisos.com/en/comprar/chalet-lista_barrio28006-93339808917_996542/,"calle de padilla, near calle de alcántara",Lista,3000000,524,house
+214,https://pisos.com/en/comprar/casa-fuencarral_el_pardo_valverde28034-1720239416_510380/,calle de donato bañares,Valverde,420000,210,house
+215,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-93347182846_102100/,fuentelarreina,Ciudad Universitaria,1800000,521,house
+216,https://pisos.com/en/comprar/chalet-fuentelarreina28035-93403733424_100500/,fuentelarreina,Fuentelarreina,2200000,677,house
+217,https://pisos.com/en/comprar/casa-fuencarral_el_pardo_valverde28034-93399982641_109100/,pueblo de fuencarral centrico.,Valverde,175000,60,house
+218,https://pisos.com/en/comprar/casa-ciudad_universitaria28035-98407181481_511009/,ciudad universitaria,Ciudad Universitaria,995000,390,house
+219,https://pisos.com/en/comprar/casa_adosada-chamartin_el_viso28002-99167093501_149200/,chamartin,El Viso,1690000,289,house
+220,https://pisos.com/en/comprar/chalet_unifamiliar-ciudad_universitaria28035-57531051942_511009/,la residencial puerta de hierro,Ciudad Universitaria,3300000,800,house
+221,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-1756108744_102100/,fuentelarreina,Ciudad Universitaria,2800000,899,house
+222,https://pisos.com/en/comprar/casa_unifamiliar-moncloa_aravaca_el_plantio28023-59230206696_101600/,la florida -  el  plantío,El Plantío,2850000,1.800,house
+223,https://pisos.com/en/comprar/chalet_adosado-fuentelarreina28035-97532015635_102100/,fuentelarreina,Fuentelarreina,885000,271,house
+224,https://pisos.com/en/comprar/chalet_adosado-mirasierra28034-93419892697_102100/,tres olivos,Mirasierra-Arroyo del Fresno,755000,250,house
+225,https://pisos.com/en/comprar/chalet-penagrande28035-904153216_102100/,puerta de hierro,Peñagrande,2950000,800,house
+226,https://pisos.com/en/comprar/chalet-chamartin_el_viso28002-88399456732_108500/,el viso,El Viso,8700000,870,house
+227,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28034-94225361136_102100/,mirasierra,Mirasierra-Arroyo del Fresno,2190000,950,house
+228,https://pisos.com/en/comprar/chalet_adosado-piovera28043-97538449284_102100/,arturo soria,Piovera,1275000,450,house
+229,https://pisos.com/en/comprar/chalet-corralejos28042-90853748341_100500/,calle de benisoda,Corralejos,780000,280,house
+230,https://pisos.com/en/comprar/chalet_adosado-chamartin_hispanoamerica28016-94166788783_102100/,nueva españa,Hispanoamérica,1580000,477,house
+231,https://pisos.com/en/comprar/casa_unifamiliar-valdemarin-95069310561_101800/,calle de darío aparicio,Valdemarín,2475000,737,house
+232,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-92598959138_107700/,"calle zenit, nº 18",Aravaca,2300000,900,house
+233,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9820464122_109700/,"calle charquilla,  s/n",El Cañaveral,348000,248,house
+234,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-100079338784_102100/,peñagrande,Ciudad Universitaria,775000,371,house
+235,https://pisos.com/en/comprar/chalet_unifamiliar-fuentelarreina28035-91693885251_996542/,fuentelarreina,Fuentelarreina,3600000,500,house
+236,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_valverde28034-1728252760_102100/,tres olivos,Valverde,1975000,710,house
+237,https://pisos.com/en/comprar/chalet_unifamiliar-ciudad_universitaria28035-56748270641_511009/,la residencial puerta de hierro,Ciudad Universitaria,6000000,1.700,house
+238,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_valverde28034-93379853539_102100/,mirasierra,Valverde,1890000,545,house
+239,https://pisos.com/en/comprar/chalet_pareado-nueva_espana28016-1676898787_102100/,nueva españa,Nueva España,1590000,184,house
+240,https://pisos.com/en/comprar/chalet-chamartin_hispanoamerica28016-1712235716_102100/,nueva españa,Hispanoamérica,4100000,647,house
+241,https://pisos.com/en/comprar/casa-vicalvaro_centro_historico-99167123934_992736/,calle de la fuente de san pedro,Centro Histórico,315000,137,house
+242,https://pisos.com/en/comprar/casa_pareada-nueva_espana28016-922876219_100100/,chamartín,Nueva España,1580000,480,house
+243,https://pisos.com/en/comprar/casa-rejas28022-1686884884_108900/,calle de fuentelencina,Rejas,495000,211,house
+244,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-1676107343_100500/,"calle horche, nº 4",Aravaca,2404800,544,house
+245,https://pisos.com/en/comprar/chalet_pareado-valdebebas_valdefuentes28055-91751721629_518378/,calle de la robla,Valdebebas-Valdefuentes,1150000,400,house
+246,https://pisos.com/en/comprar/chalet-valdebebas_valdefuentes28055-83391634327_101800/,"calle de la grama, near calle de antonio lópez torres",Valdebebas-Valdefuentes,415000,130,house
+247,https://pisos.com/en/comprar/chalet-san_blas_canillejas28022-1685144323_100500/,calle de enrique lópez,Canillejas,715000,250,house
+248,https://pisos.com/en/comprar/chalet_pareado-ciudad_universitaria28035-93336871133_102100/,peñagrande,Ciudad Universitaria,1250000,398,house
+249,https://pisos.com/en/comprar/chalet-chamartin_hispanoamerica28016-93390249381_102100/,nueva españa,Hispanoamérica,2990000,982,house
+250,https://pisos.com/en/comprar/chalet_pareado-hortaleza_canillas28043-100003070254_102100/,conde orgaz,Canillas,1675000,384,house
+251,https://pisos.com/en/comprar/casa_pareada-castilla28036-95899089867_100100/,chamartín,Castilla,2499000,423,house
+252,https://pisos.com/en/comprar/chalet_pareado-chamartin_el_viso28002-93390487703_102100/,el viso,El Viso,3640000,484,house
+253,https://pisos.com/en/comprar/casa-chamartin_hispanoamerica28016-98390191384_100100/,chamartín,Hispanoamérica,2500000,220,house
+254,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_valverde28034-97536585464_102100/,mirasierra,Valverde,3300000,682,house
+255,https://pisos.com/en/comprar/casa_pareada-penagrande28035-1689421099_100100/,"calle de antonia baena, nº 15",Peñagrande,850000,383,house
+256,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_valverde28034-95008053464_102100/,mirasierra,Valverde,1395000,467,house
+257,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-1714867650_100500/,calle de isidro dompablo,Ciudad Universitaria,625000,261,house
+258,https://pisos.com/en/comprar/chalet-san_blas_canillejas28022-1732379462_108900/,"calle de la raza, nº 6",Canillejas,1195000,417,house
+259,https://pisos.com/en/comprar/casa_adosada-orcasitas-1741254947_100500/,orcasitas,Orcasitas,205000,89,house
+260,https://pisos.com/en/comprar/casa_adosada-penagrande28035-1734662316_100100/,fuencarral,Peñagrande,1250000,413,house
+261,https://pisos.com/en/comprar/chalet_pareado-chamartin_el_viso28002-93378527667_102100/,el viso,El Viso,4830000,480,house
+262,https://pisos.com/en/comprar/casa_pareada-chamartin_el_viso28002-95001464627_100100/,chamartín,El Viso,1690000,250,house
+263,https://pisos.com/en/comprar/chalet-san_blas_rosas28022-98378379827_102100/,las mercedes,Rosas,796000,436,house
+264,https://pisos.com/en/comprar/casa_unifamiliar-san_fermin-1719168459_101000/,san fermín,San Fermín,145000,70,house
+265,https://pisos.com/en/comprar/chalet_pareado-ciudad_universitaria28035-93419405043_102100/,peñagrande,Ciudad Universitaria,849000,371,house
+266,https://pisos.com/en/comprar/chalet_adosado-fuencarral_el_pardo_valverde28034-93409092631_102100/,mirasierra,Valverde,1330000,380,house
+267,https://pisos.com/en/comprar/casa_adosada-chamartin_el_viso28002-92523023914_100100/,chamartín,El Viso,3640000,484,house
+268,https://pisos.com/en/comprar/chalet_adosado-piovera28043-93404843649_102100/,conde orgaz,Piovera,1390000,361,house
+269,https://pisos.com/en/comprar/chalet-piovera28043-1702301888_102100/,conde orgaz,Piovera,2000000,406,house
+270,https://pisos.com/en/comprar/chalet_adosado-fuencarral_el_pardo_valverde28034-98383343946_102100/,montecarmelo,Valverde,1050000,340,house
+271,https://pisos.com/en/comprar/chalet_pareado-ciudad_universitaria28035-98353874216_102100/,peñagrande,Ciudad Universitaria,990000,513,house
+272,https://pisos.com/en/comprar/chalet_adosado-penagrande28035-93405989163_102100/,peñagrande,Peñagrande,978000,393,house
+273,https://pisos.com/en/comprar/chalet-fuentelarreina28035-90836105714_108500/,fuentelarreina,Fuentelarreina,1800000,521,house
+274,https://pisos.com/en/comprar/casa_pareada-moncloa_aravaca_el_plantio-909949294_100100/,calle de ochandiano,El Plantío,700000,350,house
+275,https://pisos.com/en/comprar/chalet-penagrande28035-95060887835_102100/,fuentelarreina,Peñagrande,2200000,677,house
+276,https://pisos.com/en/comprar/casa-ciudad_universitaria28035-95870404877_100100/,moncloa,Ciudad Universitaria,4500000,1.200,house
+277,https://pisos.com/en/comprar/chalet-piovera28043-95917978979_100500/,conde orgaz,Piovera,2900000,1.100,house
+278,https://pisos.com/en/comprar/casa-ciudad_universitaria28003-89218659780_517808/,calle de vicente aleixandre,Ciudad Universitaria,4700000,630,house
+279,https://pisos.com/en/comprar/chalet-piovera28043-95045596957_100500/,hortaleza,Piovera,1450000,430,house
+280,https://pisos.com/en/comprar/chalet_adosado-fuencarral_el_pardo_el_pardo28048-839080426_500564/,calle mingorrubio,El Pardo,385000,130,house
+281,https://pisos.com/en/comprar/casa_adosada-vicalvaro_ambroz28032-1684423219_101800/,calle del prat,Ambroz,420000,394,house
+282,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_valverde28034-93423536908_102100/,tres olivos,Valverde,1460000,574,house
+283,https://pisos.com/en/comprar/chalet_pareado-piovera28043-93367677568_102100/,conde orgaz,Piovera,3200000,690,house
+284,https://pisos.com/en/comprar/chalet_pareado-valdemarin-99197746074_102100/,valdemarín,Valdemarín,1380000,356,house
+285,https://pisos.com/en/comprar/chalet_pareado-valdebebas_valdefuentes28055-93343926857_102100/,el encinar de los reyes,Valdebebas-Valdefuentes,1795000,442,house
+286,https://pisos.com/en/comprar/chalet_pareado-ciudad_lineal_quintana-93418685864_102100/,quinta de los molinos,Quintana,925000,330,house
+287,https://pisos.com/en/comprar/casa_unifamiliar-latina_carmenes28047-95088057000_100200/,cármenes,Cármenes,227000,110,house
+288,https://pisos.com/en/comprar/chalet_unifamiliar-ciudad_universitaria28035-63427269447_511009/,la residencial puerta de hierro,Ciudad Universitaria,7500000,1.200,house
+289,https://pisos.com/en/comprar/chalet_adosado-salamanca_castellana28006-93384922323_102100/,el viso,Castellana,2900000,262,house
+290,https://pisos.com/en/comprar/casa_adosada-nueva_espana28036-99185077100_996542/,nueva españa,Nueva España,1750000,412,house
+291,https://pisos.com/en/comprar/casa_unifamiliar-hortaleza_canillas28043-1711702953_100200/,calle de becerril de la sierra,Canillas,300000,90,house
+292,https://pisos.com/en/comprar/casa_unifamiliar-ciudad_universitaria28035-95874874513_100200/,ciudad universitaria,Ciudad Universitaria,525000,134,house
+293,https://pisos.com/en/comprar/chalet-concepcion-1741463401_100500/,"calle de arturo soria, near calle de los misterios",Concepción,950000,247,house
+294,https://pisos.com/en/comprar/chalet-guindalera28028-98368896119_100500/,guindalera,Guindalera,799000,213,house
+295,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9809319990_109700/,"calle charquilla,  s/n",El Cañaveral,334000,248,house
+296,https://pisos.com/en/comprar/chalet-castilla28036-851666590_102100/,nueva españa,Castilla,2499000,423,house
+297,https://pisos.com/en/comprar/chalet_adosado-concepcion-97597422883_102100/,quinta de los molinos,Concepción,730000,248,house
+298,https://pisos.com/en/comprar/chalet-piovera28043-98371929943_102100/,conde orgaz,Piovera,1850000,755,house
+299,https://pisos.com/en/comprar/casa-nueva_espana28016-93389192741_109100/,al lado de metro pio xll,Nueva España,3800000,333,house
+300,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-1684352795_108900/,calle del unicornio,Aravaca,675000,314,house
+301,https://pisos.com/en/comprar/chalet-hortaleza_canillas28043-93343178650_102100/,conde orgaz,Canillas,6750000,1.149,house
+302,https://pisos.com/en/comprar/chalet_adosado-ciudad_lineal_quintana-93420895954_102100/,quinta de los molinos,Quintana,920000,336,house
+303,https://pisos.com/en/comprar/chalet-penagrande28035-93338481262_102100/,puerta de hierro,Peñagrande,2500000,722,house
+304,https://pisos.com/en/comprar/chalet_adosado-chamartin_el_viso28002-92520716744_149200/,chamartin,El Viso,2980000,315,house
+305,https://pisos.com/en/comprar/chalet-hortaleza_canillas28043-95032155035_102100/,conde orgaz,Canillas,3500000,724,house
+306,https://pisos.com/en/comprar/chalet_adosado-piovera28043-93370647409_102100/,canillas,Piovera,2100000,410,house
+307,https://pisos.com/en/comprar/chalet_pareado-nueva_espana28016-99253391752_102100/,nueva españa,Nueva España,1395000,474,house
+308,https://pisos.com/en/comprar/chalet_adosado-apostol_santiago-94224357250_105100/,apóstol santiago,Apóstol Santiago,359000,143,house
+309,https://pisos.com/en/comprar/chalet_pareado-valdemarin-99175204944_102100/,valdemarín,Valdemarín,1380000,356,house
+310,https://pisos.com/en/comprar/chalet_adosado-el_canaveral-89266143662_513665/,"calle mayorazgo de duarte, nº 231",El Cañaveral,349500,155,house
+311,https://pisos.com/en/comprar/casa-penagrande28035-98429199064_100100/,fuencarral,Peñagrande,430000,80,house
+312,https://pisos.com/en/comprar/casa-castilla28016-94242238188_517808/,"avenida de alfonso xiii, near avenida de aster",Castilla,1550000,250,house
+313,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_valverde28034-99202628377_102100/,mirasierra,Valverde,2420000,554,house
+314,https://pisos.com/en/comprar/chalet_adosado-fuencarral_el_pardo_valverde28034-93413109349_102100/,tres olivos,Valverde,740000,252,house
+315,https://pisos.com/en/comprar/chalet-chamartin_el_viso28006-94260122623_102100/,el viso,El Viso,4950000,723,house
+316,https://pisos.com/en/comprar/chalet-casco_historico_de_barajas-96743412623_100500/,calle de los pajarones,Casco Histórico de Barajas,490000,150,house
+317,https://pisos.com/en/comprar/chalet_adosado-piovera28043-93409855942_102100/,conde orgaz,Piovera,3200000,740,house
+318,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_la_paz28029-98407708225_102100/,arturo soria,La Paz,850000,279,house
+319,https://pisos.com/en/comprar/casa_adosada-penagrande28035-98368243945_100500/,"calle de otero y delage, near calle de amadeo gómez",Peñagrande,595000,170,house
+320,https://pisos.com/en/comprar/chalet-chamartin_hispanoamerica28016-93426681627_102100/,nueva españa,Hispanoamérica,4200000,1.285,house
+321,https://pisos.com/en/comprar/chalet_unifamiliar-chamartin_ciudad_jardin28016-91678596996_149200/,chamartin,Ciudad Jardín,1690000,290,house
+322,https://pisos.com/en/comprar/casa_pareada-fuente_del_berro28028-911019368_100500/,calle de los condes de torreanaz,Fuente del Berro,820000,146,house
+323,https://pisos.com/en/comprar/casa_adosada-hortaleza_palomas28042-99247853483_101000/,las palomas,Palomas,1088000,360,house
+324,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-1732419165_518022/,calle de la fuente del rey,Aravaca,2200000,665,house
+325,https://pisos.com/en/comprar/chalet-piovera28043-93356072703_102100/,conde orgaz,Piovera,2200000,554,house
+326,https://pisos.com/en/comprar/chalet-chamartin_el_viso28006-65848570311_149200/,chamartin,El Viso,2500000,400,house
+327,https://pisos.com/en/comprar/chalet_pareado-valdebebas_valdefuentes28055-1758148587_102100/,el encinar de los reyes,Valdebebas-Valdefuentes,1640000,380,house
+328,https://pisos.com/en/comprar/casa_adosada-rejas28022-1727727411_100500/,rejas,Rejas,495000,210,house
+329,https://pisos.com/en/comprar/chalet_pareado-hortaleza_canillas28043-93411725873_102100/,canillas,Canillas,1190000,379,house
+330,https://pisos.com/en/comprar/casa_pareada-chamartin_hispanoamerica28043-92522745890_518378/,"calle de pegaso, near calle de méntrida",Hispanoamérica,1100000,400,house
+331,https://pisos.com/en/comprar/chalet-hortaleza_canillas28043-93358348100_102100/,arturo soria,Canillas,700000,163,house
+332,https://pisos.com/en/comprar/chalet-piovera28043-93402614218_102100/,canillas,Piovera,1575000,450,house
+333,https://pisos.com/en/comprar/casa-moncloa_aravaca_el_plantio-98396561686_100100/,moncloa,El Plantío,1550000,442,house
+334,https://pisos.com/en/comprar/casa-zofio28026-96711343825_100200/,avenida del cerro de los ángeles,Zofío,790000,302,house
+335,https://pisos.com/en/comprar/chalet-corralejos28042-1764715570_108900/,barajas,Corralejos,780000,280,house
+336,https://pisos.com/en/comprar/chalet_adosado-ciudad_universitaria28035-100057693468_102100/,arroyo fresno,Ciudad Universitaria,990000,268,house
+337,https://pisos.com/en/comprar/chalet_adosado-aeropuerto28042-859053423_102100/,alameda de osuna,Aeropuerto,820000,289,house
+338,https://pisos.com/en/comprar/chalet-piovera28043-99199742443_102100/,conde orgaz,Piovera,4975000,1.150,house
+339,https://pisos.com/en/comprar/chalet-san_blas_canillejas28022-854181962_100500/,calle suárez y garcía,Canillejas,1270000,435,house
+340,https://pisos.com/en/comprar/chalet_pareado-valdemarin-863048905_102100/,aravaca,Valdemarín,985000,374,house
+341,https://pisos.com/en/comprar/chalet_adosado-castilla28036-93376756076_102100/,nueva españa,Castilla,2100000,453,house
+342,https://pisos.com/en/comprar/chalet_adosado-casco_historico_de_barajas-100004251099_102100/,piovera,Casco Histórico de Barajas,965000,379,house
+343,https://pisos.com/en/comprar/chalet-piovera28043-99225952362_102100/,conde orgaz,Piovera,1980000,575,house
+344,https://pisos.com/en/comprar/casa_adosada-berruguete28039-97522359912_100200/,calle de serrallo,Berruguete,150000,42,house
+345,https://pisos.com/en/comprar/chalet_pareado-penagrande28035-93362079718_102100/,mirasierra,Peñagrande,1950000,613,house
+346,https://pisos.com/en/comprar/casa_pareada-el_canaveral-97541607284_108900/,"calle ferenc puskas, nº 81",El Cañaveral,440000,172,house
+347,https://pisos.com/en/comprar/casa_adosada-penagrande28035-9801135891_109700/,"calle de ramón gómez de la serna,  60-62",Peñagrande,917700,343,house
+348,https://pisos.com/en/comprar/casa_adosada-hortaleza_palomas28042-1709438518_100500/,palomas,Palomas,990000,625,house
+349,https://pisos.com/en/comprar/casa-san_blas_rosas28022-1757707076_108900/,calle de estocolmo,Rosas,750000,295,house
+350,https://pisos.com/en/comprar/casa_adosada-el_canaveral-97546231998_108900/,"calle ferenc puskas, nº 81",El Cañaveral,465000,174,house
+351,https://pisos.com/en/comprar/chalet_pareado-hortaleza_canillas28043-93339374663_102100/,conde orgaz,Canillas,1690000,600,house
+352,https://pisos.com/en/comprar/casa_adosada-san_diego28053-100062098675_101800/,puente de vallecas - san diego,San Diego,90000,32,house
+353,https://pisos.com/en/comprar/casa_pareada-san_blas_salvador28027-1680527165_100100/,san blas,Salvador,1075000,264,house
+354,https://pisos.com/en/comprar/chalet-chamartin_el_viso28036-95062771175_102100/,alfonso xiii,El Viso,2500000,200,house
+355,https://pisos.com/en/comprar/chalet-guindalera28028-1689000930_102100/,guindalera,Guindalera,1098000,204,house
+356,https://pisos.com/en/comprar/chalet_pareado-ciudad_universitaria28035-95838895783_102100/,puerta de hierro,Ciudad Universitaria,1980000,675,house
+357,https://pisos.com/en/comprar/casa_adosada-moncloa_aravaca_el_plantio-1718206759_100200/,el plantío,El Plantío,588000,300,house
+358,https://pisos.com/en/comprar/chalet_adosado-penagrande28035-93347880084_102100/,fuentelarreina,Peñagrande,1095000,409,house
+359,https://pisos.com/en/comprar/chalet-piovera28043-93371250161_102100/,conde orgaz,Piovera,3850000,712,house
+360,https://pisos.com/en/comprar/chalet_pareado-apostol_santiago-1720240330_105100/,apóstol santiago,Apóstol Santiago,769000,247,house
+361,https://pisos.com/en/comprar/casa-villaverde_los_rosales28021-1697510449_108900/,"calle de leonor góngora, near calle del platino",Los Rosales,495000,264,house
+362,https://pisos.com/en/comprar/chalet_pareado-rejas28022-1744843905_102100/,las mercedes,Rejas,830000,500,house
+363,https://pisos.com/en/comprar/chalet_adosado-penagrande28035-98398763137_102100/,mirasierra,Peñagrande,1150000,242,house
+364,https://pisos.com/en/comprar/casa_adosada-san_blas_canillejas28022-1763952583_100200/,canillejas,Canillejas,459000,153,house
+365,https://pisos.com/en/comprar/chalet-valdemarin-93340901609_102100/,la florida,Valdemarín,2750000,750,house
+366,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_valverde28034-93394508134_102100/,tres olivos,Valverde,1930000,547,house
+367,https://pisos.com/en/comprar/chalet_adosado-hortaleza_canillas28043-93392168378_102100/,conde orgaz,Canillas,1425000,373,house
+368,https://pisos.com/en/comprar/casa-piovera28043-1750776189_108900/,"avenida del papa negro, near ronda de la abubilla",Piovera,1850000,600,house
+369,https://pisos.com/en/comprar/chalet-chamartin_el_viso28002-92511672610_149200/,chamartin,El Viso,3000000,372,house
+370,https://pisos.com/en/comprar/chalet_pareado-piovera28043-93341887850_102100/,canillas,Piovera,1155000,450,house
+371,https://pisos.com/en/comprar/chalet_adosado-latina_carmenes28047-2593210664_105100/,los cármenes,Cármenes,336000,109,house
+372,https://pisos.com/en/comprar/chalet-hortaleza_canillas28043-93334777708_102100/,conde orgaz,Canillas,1500000,477,house
+373,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-95848223414_102100/,la florida,Aravaca,2700000,1.050,house
+374,https://pisos.com/en/comprar/chalet-valdemarin-93343208371_102100/,valdemarín,Valdemarín,1725000,440,house
+375,https://pisos.com/en/comprar/chalet-chamartin_prosperidad28002-93388849021_102100/,el viso,Prosperidad,4400000,446,house
+376,https://pisos.com/en/comprar/casa_adosada-puente_de_vallecas_entrevias28053-906840345_100500/,calle de la cooperativa eléctrica,Entrevías,210000,150,house
+377,https://pisos.com/en/comprar/chalet-penagrande28035-93413240279_102100/,puerta de hierro,Peñagrande,2490000,835,house
+378,https://pisos.com/en/comprar/chalet_pareado-valdebebas_valdefuentes28055-99205024475_102100/,el encinar de los reyes,Valdebebas-Valdefuentes,1470000,280,house
+379,https://pisos.com/en/comprar/chalet_pareado-piovera28043-97557612448_102100/,conde orgaz,Piovera,2150000,578,house
+380,https://pisos.com/en/comprar/chalet_adosado-san_blas_salvador28027-97561620564_102100/,concepción,Salvador,845000,250,house
+381,https://pisos.com/en/comprar/casa_pareada-chamartin_ciudad_jardin28002-95098275808_149200/,chamartin,Ciudad Jardín,1500000,320,house
+382,https://pisos.com/en/comprar/chalet-penagrande28035-1744946607_100500/,calle de antonia baena,Peñagrande,850000,383,house
+383,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_la_paz28029-94239172979_102100/,la florida,La Paz,3500000,1.229,house
+384,https://pisos.com/en/comprar/casa_adosada-valdezarza28035-1729885867_101800/,"calle de san gerardo, near calle de regina álvarez",Valdezarza,1450000,400,house
+385,https://pisos.com/en/comprar/casa_adosada-penagrande28035-1733533993_100100/,fuencarral,Peñagrande,1050000,322,house
+386,https://pisos.com/en/comprar/chalet_adosado-moncloa_aravaca_aravaca28023-93388331007_102100/,aravaca,Aravaca,850000,300,house
+387,https://pisos.com/en/comprar/chalet_adosado-hortaleza_canillas28043-93337253247_102100/,canillas,Canillas,2100000,381,house
+388,https://pisos.com/en/comprar/chalet_pareado-piovera28043-93429849803_102100/,conde orgaz,Piovera,1495000,380,house
+389,https://pisos.com/en/comprar/casa_unifamiliar-piovera28043-1670287540_101000/,conde orgaz,Piovera,1100000,371,house
+390,https://pisos.com/en/comprar/casa_adosada-penagrande28035-98388330304_100200/,"calle de rosalía de castro, near calle de dionisio ridruejo",Peñagrande,600000,297,house
+391,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-93431186226_102100/,valdemarín,Aravaca,1650000,509,house
+392,https://pisos.com/en/comprar/casa_adosada-mirasierra_arroyo_del_fresno28034-100067528991_101000/,mirasierra,Mirasierra-Arroyo del Fresno,1200000,251,house
+393,https://pisos.com/en/comprar/chalet-piovera28043-95877673426_102100/,canillas,Piovera,2250000,666,house
+394,https://pisos.com/en/comprar/casa_adosada-san_blas_salvador28027-1726582752_100500/,"calle de siro muela, near calle de tegucigalpa",Salvador,839000,318,house
+395,https://pisos.com/en/comprar/casa_unifamiliar-valdemarin-95869846450_101800/,moncloa - valdemarín,Valdemarín,1795000,400,house
+396,https://pisos.com/en/comprar/chalet-chamartin_ciudad_jardin28016-834186232_101800/,chamartín - ciudad jardín,Ciudad Jardín,1690000,290,house
+397,https://pisos.com/en/comprar/casa-san_blas_rosas28022-1762932401_108900/,calle de versalles,Rosas,650000,240,house
+398,https://pisos.com/en/comprar/chalet-valdemarin-98424905242_102100/,valdemarín,Valdemarín,1680000,443,house
+399,https://pisos.com/en/comprar/chalet_adosado-ciudad_lineal_quintana-97573583516_102100/,quinta de los molinos,Quintana,750000,226,house
+400,https://pisos.com/en/comprar/chalet_adosado-piovera28043-1742107132_102100/,conde orgaz,Piovera,1586000,416,house
+401,https://pisos.com/en/comprar/chalet-valdemarin-93430616831_102100/,valdemarín,Valdemarín,3975000,1.200,house
+402,https://pisos.com/en/comprar/chalet_pareado-valdemarin-93419842011_102100/,aravaca,Valdemarín,1650000,583,house
+403,https://pisos.com/en/comprar/chalet_adosado-san_blas_rosas28032-94183922545_996397/,"calle de versalles, near calle de toscana",Rosas,880000,350,house
+404,https://pisos.com/en/comprar/chalet_adosado-hortaleza_canillas28043-95863466367_102100/,pinar del rey,Canillas,825000,275,house
+405,https://pisos.com/en/comprar/casa_pareada-el_canaveral-97509316048_108900/,"calle ferenc puskas, nº 81",El Cañaveral,446000,166,house
+406,https://pisos.com/en/comprar/chalet-hortaleza_canillas28043-93426483465_102100/,conde orgaz,Canillas,3850000,1.060,house
+407,https://pisos.com/en/comprar/chalet-valdemarin-93372839992_102100/,la florida,Valdemarín,3200000,1.000,house
+408,https://pisos.com/en/comprar/chalet-alameda_de_osuna_barrio-98339774082_100500/,calle de benito monfort,Alameda de Osuna,820000,289,house
+409,https://pisos.com/en/comprar/chalet_pareado-moncloa_aravaca_aravaca28023-93355631572_102100/,aravaca,Aravaca,1090000,390,house
+410,https://pisos.com/en/comprar/casa_unifamiliar-ciudad_lineal_atalaya-93409647260_996542/,atalaya,Atalaya,P,,house
+411,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-93421936980_102100/,valdemarín,Aravaca,3000000,685,house
+412,https://pisos.com/en/comprar/casa-fuencarral_el_pardo_valverde28034-857061002_100500/,valverde,Valverde,180000,76,house
+413,https://pisos.com/en/comprar/chalet_adosado-hortaleza_canillas28043-859647785_105100/,canillas,Canillas,499000,187,house
+414,https://pisos.com/en/comprar/chalet-chamartin_hispanoamerica28036-93353446178_102100/,valdemarín,Hispanoamérica,3550000,850,house
+415,https://pisos.com/en/comprar/chalet-corralejos28042-852042995_100500/,"avenida de logroño, near calle de burriana",Corralejos,790000,267,house
+416,https://pisos.com/en/comprar/chalet_adosado-valdebebas_valdefuentes28055-99205919450_102100/,el encinar de los reyes,Valdebebas-Valdefuentes,1250000,300,house
+417,https://pisos.com/en/comprar/chalet-piovera28043-93419428714_102100/,conde orgaz,Piovera,4500000,901,house
+418,https://pisos.com/en/comprar/chalet_adosado-fuencarral_el_pardo_el_pardo28048-90915415950_500564/,calle mingorrubio,El Pardo,385000,130,house
+419,https://pisos.com/en/comprar/chalet_adosado-hortaleza_canillas28043-1734068551_105100/,canillas,Canillas,2039000,359,house
+420,https://pisos.com/en/comprar/chalet-penagrande28035-97546280421_101800/,calle de antonia baena,Peñagrande,850000,383,house
+421,https://pisos.com/en/comprar/chalet-valdemarin-93399515188_102100/,valdemarín,Valdemarín,4950000,1.150,house
+422,https://pisos.com/en/comprar/chalet_adosado-aeropuerto28042-99256154731_102100/,alameda de osuna,Aeropuerto,890000,286,house
+423,https://pisos.com/en/comprar/chalet_unifamiliar-nueva_espana28016-87571310044_149200/,chamartin,Nueva España,3100000,789,house
+424,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-93381243754_108500/,ciudad universitaria,Ciudad Universitaria,3300000,990,house
+425,https://pisos.com/en/comprar/casa_pareada-penagrande28035-99192689385_100100/,fuencarral,Peñagrande,950000,407,house
+426,https://pisos.com/en/comprar/casa_adosada-el_canaveral-97510946096_108900/,"calle ferenc puskas, nº 81",El Cañaveral,457000,,house
+427,https://pisos.com/en/comprar/casa_adosada-moncloa_aravaca_aravaca28023-99221409302_101800/,"calle del cerro de valdecahonde, nº 27",Aravaca,395000,161,house
+428,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-93414184014_102100/,la florida,Aravaca,6200000,1.500,house
+429,https://pisos.com/en/comprar/casa_pareada-orcasitas-100032758925_101800/,usera - orcasitas,Orcasitas,70000,82,house
+430,https://pisos.com/en/comprar/chalet-hortaleza_canillas28043-93360746030_102100/,conde orgaz,Canillas,1850000,580,house
+431,https://pisos.com/en/comprar/chalet_pareado-hortaleza_canillas28043-93424812689_102100/,conde orgaz,Canillas,1800000,452,house
+432,https://pisos.com/en/comprar/chalet_adosado-hortaleza_canillas28043-95023314264_105100/,canillas,Canillas,299000,145,house
+433,https://pisos.com/en/comprar/chalet_adosado-piovera28043-93348145573_102100/,conde orgaz,Piovera,1490000,400,house
+434,https://pisos.com/en/comprar/chalet-valdemarin-93410118475_102100/,la florida,Valdemarín,1750000,998,house
+435,https://pisos.com/en/comprar/casa-penagrande28035-1689031291_100500/,peñagrande,Peñagrande,600000,169,house
+436,https://pisos.com/en/comprar/chalet_unifamiliar-nueva_espana28016-70066545537_149200/,chamartin,Nueva España,3800000,311,house
+437,https://pisos.com/en/comprar/casa_unifamiliar-hortaleza_palomas28022-1699069762_411000/,calle de rafael de la hoz,Palomas,795000,401,house
+438,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28035-1758891873_100500/,"calle de collado mostajo, nº 10",Mirasierra-Arroyo del Fresno,860000,360,house
+439,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-917756561_102100/,valdemarín,Aravaca,2172000,743,house
+440,https://pisos.com/en/comprar/chalet_pareado-hortaleza_canillas28043-93431226632_102100/,conde orgaz,Canillas,1590000,391,house
+441,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-98365366871_102100/,valdemarín,Aravaca,3295000,982,house
+442,https://pisos.com/en/comprar/casa_adosada-puente_de_vallecas_entrevias28053-100016501001_100200/,entrevías,Entrevías,109000,83,house
+443,https://pisos.com/en/comprar/casa_adosada-corralejos28042-1689916854_108900/,corralejos,Corralejos,725000,258,house
+444,https://pisos.com/en/comprar/chalet-piovera28043-93386581260_102100/,conde orgaz,Piovera,3960000,650,house
+445,https://pisos.com/en/comprar/chalet-piovera28043-93387545679_102100/,conde orgaz,Piovera,1475000,487,house
+446,https://pisos.com/en/comprar/casa_pareada-ciudad_universitaria28035-100081324492_100500/,moncloa,Ciudad Universitaria,2100000,418,house
+447,https://pisos.com/en/comprar/chalet_pareado-moncloa_aravaca_aravaca28023-95011368442_500564/,"calle de molina de aragón, nº 1",Aravaca,910000,411,house
+448,https://pisos.com/en/comprar/chalet-san_blas_canillejas28022-1708980531_106000/,calle del néctar,Canillejas,850000,235,house
+449,https://pisos.com/en/comprar/chalet_adosado-guindalera28028-1731182311_102100/,guindalera,Guindalera,995000,208,house
+450,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-93359893291_102100/,aravaca,Aravaca,1500000,606,house
+451,https://pisos.com/en/comprar/casa_adosada-timon28042-99184865712_100500/,timón,Timón,795000,253,house
+452,https://pisos.com/en/comprar/chalet-fuencarral_el_pardo_el_pardo28035-93400833462_995394/,el pardo,El Pardo,670000,200,house
+453,https://pisos.com/en/comprar/casa_adosada-fuencarral_el_pardo_valverde28034-95841888511_108900/,valverde,Valverde,950000,320,house
+454,https://pisos.com/en/comprar/casa_adosada-san_blas_salvador28027-1701697927_101000/,salvador - san blas,Salvador,1150000,360,house
+455,https://pisos.com/en/comprar/casa_adosada-el_canaveral-97589101659_108900/,"calle ferenc puskas, nº 81",El Cañaveral,465000,173,house
+456,https://pisos.com/en/comprar/casa-latina_campamento28024-862821815_100100/,"carretera de boadilla del monte, nº 32",Campamento,579000,306,house
+457,https://pisos.com/en/comprar/chalet-valdemarin-97559641044_102100/,la florida,Valdemarín,2750000,829,house
+458,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-1720593631_100500/,madrid,El Plantío,3500000,937,house
+459,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-93397597922_102100/,valdemarín,Aravaca,2250000,986,house
+460,https://pisos.com/en/comprar/casa-chamartin_el_viso28002-68391476019_149200/,chamartin,El Viso,8700000,881,house
+461,https://pisos.com/en/comprar/chalet_adosado-valdebebas_valdefuentes28055-93354294247_102100/,el encinar de los reyes,Valdebebas-Valdefuentes,1270000,309,house
+462,https://pisos.com/en/comprar/chalet_adosado-chamartin_el_viso28002-89238774506_149200/,chamartin,El Viso,3640000,484,house
+463,https://pisos.com/en/comprar/chalet-corralejos28042-99184108118_100500/,"calle de boiro, near calle de benisoda",Corralejos,790000,357,house
+464,https://pisos.com/en/comprar/chalet-san_diego28053-96668688273_100500/,calle del monte perdido,San Diego,450000,192,house
+465,https://pisos.com/en/comprar/chalet_pareado-piovera28043-93412013122_102100/,conde orgaz,Piovera,3100000,750,house
+466,https://pisos.com/en/comprar/chalet_adosado-fuente_del_berro28028-93393842609_105100/,fuente del berro,Fuente del Berro,883630,204,house
+467,https://pisos.com/en/comprar/casa_pareada-san_blas_canillejas28022-98371008558_100100/,"calle de rafael de la hoz, nº 16",Canillejas,740000,280,house
+468,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-89265651474_107200/,moncloa,Aravaca,1240000,450,house
+469,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-98350129972_102100/,la florida,Aravaca,2000000,918,house
+470,https://pisos.com/en/comprar/casa_pareada-castilla28036-98423799051_101000/,plaza de castilla,Castilla,935000,187,house
+471,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-85891895915_107200/,moncloa,El Plantío,2500000,750,house
+472,https://pisos.com/en/comprar/casa-casco_historico_de_vallecas28031-1736140181_108900/,casco histórico de vallecas,Casco Histórico de Vallecas,1650000,1.350,house
+473,https://pisos.com/en/comprar/casa-moncloa_aravaca_el_plantio-95030948055_100100/,"calle eibar, nº 1",El Plantío,3000000,1.931,house
+474,https://pisos.com/en/comprar/chalet-valdemarin-81735086421_107200/,moncloa,Valdemarín,2500000,1.387,house
+475,https://pisos.com/en/comprar/chalet-piovera28043-93367688244_102100/,conde orgaz,Piovera,2900000,466,house
+476,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-1675639057_100500/,madrid,El Plantío,2700000,1.036,house
+477,https://pisos.com/en/comprar/casa-fuencarral_el_pardo_valverde28034-96762458273_109300/,"ronda del caballero de la mancha, nº 6",Valverde,699000,156,house
+478,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-862998435_100500/,travesía del caño,Aravaca,1490000,552,house
+479,https://pisos.com/en/comprar/casa-mirasierra28035-93392284086_100500/,mirasierra-arroyo del fresno,Mirasierra-Arroyo del Fresno,990000,375,house
+480,https://pisos.com/en/comprar/casa_pareada-jeronimos28014-94264908078_101000/,jeronimos,Jerónimos,1500000,322,house
+481,https://pisos.com/en/comprar/chalet-ensanche_de_vallecas_valdecarros28051-99196640069_100500/,calle del arte minimal,Ensanche de Vallecas-Valdecarros,367000,189,house
+482,https://pisos.com/en/comprar/casa-jeronimos28009-100080096210_100500/,jerónimos,Jerónimos,525000,180,house
+483,https://pisos.com/en/comprar/chalet-lista_barrio28006-93334173384_102100/,el viso,Lista,5995000,670,house
+484,https://pisos.com/en/comprar/casa_pareada-nueva_espana28016-849294831_101800/,"calle de san telmo, near calle de jerez",Nueva España,2150000,516,house
+485,https://pisos.com/en/comprar/casa-chamartin_el_viso28002-98418795377_101800/,calle del segre,El Viso,2700000,385,house
+486,https://pisos.com/en/comprar/chalet-valdemarin-98391779819_102100/,la florida,Valdemarín,1750000,700,house
+487,https://pisos.com/en/comprar/casa-ciudad_universitaria28035-99217464813_100500/,ciudad universitaria,Ciudad Universitaria,2300000,788,house
+488,https://pisos.com/en/comprar/chalet-san_diego28053-99260816726_101800/,calle del pico javalón,San Diego,389900,280,house
+489,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-1727100056_109300/,"ronda de la buganvilla del rey, nº 19",Aravaca,929000,353,house
+490,https://pisos.com/en/comprar/chalet-valdemarin-93391553840_102100/,la florida,Valdemarín,3000000,2.400,house
+491,https://pisos.com/en/comprar/chalet-chamartin_hispanoamerica28016-93344261575_102100/,ciudad jardín,Hispanoamérica,1200000,317,house
+492,https://pisos.com/en/comprar/casa_pareada-chamartin_ciudad_jardin28002-98395824712_101800/,"calle de guerrero y mendoza, near calle de gabriel y galán",Ciudad Jardín,1100000,240,house
+493,https://pisos.com/en/comprar/casa-penagrande28035-1722702272_100500/,peñagrande,Peñagrande,1055000,447,house
+494,https://pisos.com/en/comprar/casa_adosada-penagrande28035-99243936973_100500/,fuentelareyna,Peñagrande,700000,248,house
+495,https://pisos.com/en/comprar/casa-chamartin_el_viso28002-98427344765_101800/,chamartín - el viso,El Viso,8700000,850,house
+496,https://pisos.com/en/comprar/chalet_unifamiliar-castilla28016-91740777143_212600/,"calle de arturo soria, near calle del jazmín",Castilla,2100000,624,house
+497,https://pisos.com/en/comprar/casa-concepcion-98424458285_100500/,concepción,Concepción,750000,163,house
+498,https://pisos.com/en/comprar/casa_adosada-moncloa_aravaca_aravaca28023-1671722874_100500/,moncloa,Aravaca,690000,250,house
+499,https://pisos.com/en/comprar/casa-centro_palacio28013-98427745914_100200/,palacio,Palacio,1200000,197,house
+500,https://pisos.com/en/comprar/chalet_adosado-valdemarin-93350288147_102100/,aravaca,Valdemarín,950000,219,house
+501,https://pisos.com/en/comprar/casa-san_blas_salvador28027-95909519757_100500/,salvador,Salvador,839000,307,house
+502,https://pisos.com/en/comprar/chalet_pareado-valdebebas_valdefuentes28055-929434864_102100/,el encinar de los reyes,Valdebebas-Valdefuentes,1450000,330,house
+503,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-88362364877_107200/,moncloa,Aravaca,1350000,638,house
+504,https://pisos.com/en/comprar/casa_adosada-montecarmelo28049-1694800122_100100/,"avenida del santuario de valverde, nº 85",Montecarmelo,1298000,305,house
+505,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-1739684030_100500/,calle horche,Aravaca,2404800,885,house
+506,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-95910768429_102100/,la florida,Aravaca,3950000,1.200,house
+507,https://pisos.com/en/comprar/casa_adosada-hortaleza_palomas28042-99237529183_100200/,palomas,Palomas,715000,260,house
+508,https://pisos.com/en/comprar/chalet-madrid_capital_zona_urbana-83339873688_107200/,estremera,Madrid Capital,148320,331,house
+509,https://pisos.com/en/comprar/chalet-penagrande28035-1702806405_101800/,"peñagrande,madrid,madrid",Peñagrande,209000,64,house
+510,https://pisos.com/en/comprar/casa_pareada-valdemarin-1747549232_100500/,moncloa,Valdemarín,2099000,625,house
+511,https://pisos.com/en/comprar/casa_adosada-puente_de_vallecas_entrevias28053-1715654469_101800/,calle de vilches,Entrevías,110000,62,house
+512,https://pisos.com/en/comprar/chalet-valdemarin-1753939555_100500/,moncloa,Valdemarín,2300000,1.387,house
+513,https://pisos.com/en/comprar/chalet-puente_de_vallecas_entrevias28053-99252743524_108900/,calle de vilches,Entrevías,152000,71,house
+514,https://pisos.com/en/comprar/chalet_pareado-valdebebas_valdefuentes28055-95082687754_102100/,el encinar de los reyes,Valdebebas-Valdefuentes,1845000,345,house
+515,https://pisos.com/en/comprar/casa-rejas28022-1724403857_100500/,rejas,Rejas,550000,223,house
+516,https://pisos.com/en/comprar/chalet-hortaleza_palomas28042-870253972_100500/,"avenida de logroño, nº 10",Palomas,990000,303,house
+517,https://pisos.com/en/comprar/casa-latina_carmenes28047-872545123_109300/,"calle de gallur, nº 213",Cármenes,239000,129,house
+518,https://pisos.com/en/comprar/casa-moncloa_aravaca_el_plantio-93416781030_100500/,el plantío,El Plantío,1999000,998,house
+519,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-99252500619_102100/,la florida,Aravaca,1900000,643,house
+520,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9896226155_109700/,"calle charquilla,  s/n",El Cañaveral,353000,248,house
+521,https://pisos.com/en/comprar/chalet-penagrande28035-1729865137_100500/,madrid,Peñagrande,1000000,400,house
+522,https://pisos.com/en/comprar/casa_adosada-puente_de_vallecas_entrevias28053-1705047141_100200/,entrevías,Entrevías,119000,95,house
+523,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-918303411_100500/,travesía del caño,Aravaca,1490000,552,house
+524,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-97539541245_109300/,"colónia santa maría, nº 17",Aravaca,849000,244,house
+525,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-84262282645_107200/,moncloa,Aravaca,1240000,390,house
+526,https://pisos.com/en/comprar/casa-rejas28022-91750718310_109300/,"calle de noviembre, nº 41",Rejas,275000,101,house
+527,https://pisos.com/en/comprar/chalet-penagrande28035-1726637425_100500/,calle de antonia baena,Peñagrande,850000,383,house
+528,https://pisos.com/en/comprar/chalet-chamartin_el_viso28006-75059181268_108500/,el viso,El Viso,2500000,370,house
+529,https://pisos.com/en/comprar/chalet-timon28042-1687728451_101800/,barajas - timón,Timón,595000,248,house
+530,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-86732577044_107200/,moncloa,El Plantío,3950000,1.300,house
+531,https://pisos.com/en/comprar/casa_pareada-valdemarin-100052503895_100500/,avenida de valdemarín,Valdemarín,1400000,406,house
+532,https://pisos.com/en/comprar/chalet_adosado-el_canaveral-95083624910_992112/,el cañaveral,El Cañaveral,417877,306,house
+533,https://pisos.com/en/comprar/chalet-castilla28036-91692398674_517804/,calle de mateo inurria,Castilla,2355000,350,house
+534,https://pisos.com/en/comprar/chalet-san_blas_canillejas28022-94167767358_108900/,canillejas,Canillejas,1165000,480,house
+535,https://pisos.com/en/comprar/casa-penagrande28035-85078004093_100100/,"calle de gascones, nº 3",Peñagrande,1200000,560,house
+536,https://pisos.com/en/comprar/chalet-piovera28043-81745571517_108500/,piovera,Piovera,1495000,460,house
+537,https://pisos.com/en/comprar/casa-guindalera28028-100063024561_101800/,salamanca - guindalera,Guindalera,995000,162,house
+538,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-95839095820_100100/,moncloa,Aravaca,1990000,920,house
+539,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-94199843550_100500/,calle de peguerinos,Ciudad Universitaria,3600000,950,house
+540,https://pisos.com/en/comprar/casa_pareada-moncloa_aravaca_aravaca28023-915494594_101800/,paseo de la rinconada,Aravaca,1800000,378,house
+541,https://pisos.com/en/comprar/chalet-ciudad_universitaria28040-95041805612_102100/,vallehermoso,Ciudad Universitaria,2800000,666,house
+542,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-89262711310_100500/,ciudad universitaria,Ciudad Universitaria,3600000,840,house
+543,https://pisos.com/en/comprar/chalet-penagrande28035-99195401389_102100/,ciudad universitaria,Peñagrande,1850000,623,house
+544,https://pisos.com/en/comprar/casa-penagrande28035-97519684907_102500/,"calle de antonia baena, nº 15",Peñagrande,850000,383,house
+545,https://pisos.com/en/comprar/casa_pareada-numancia28038-99239411740_100100/,calle de fernando pastor,Numancia,219000,174,house
+546,https://pisos.com/en/comprar/casa_adosada-fuente_del_berro28028-91679809624_100500/,fuente del berro,Fuente del Berro,2500000,490,house
+547,https://pisos.com/en/comprar/chalet_pareado-chamartin_hispanoamerica28016-945856909725671_109800/,"calle de las endrinas, nº 12",Hispanoamérica,1590000,184,house
+548,https://pisos.com/en/comprar/casa_adosada-ciudad_universitaria28035-98370083315_100100/,"calle de la isla de alegranza, nº 1",Ciudad Universitaria,1060000,350,house
+549,https://pisos.com/en/comprar/casa_unifamiliar-mirasierra28034-73355079895_101600/,"calle de moralzarzal, near calle del pico pasapán",Mirasierra-Arroyo del Fresno,2950000,860,house
+550,https://pisos.com/en/comprar/casa_adosada-fuencarral_el_pardo_valverde28034-1686141112_996012/,"calle de sabadell, near calle de manresa",Valverde,180000,76,house
+551,https://pisos.com/en/comprar/casa-fuencarral_el_pardo_el_pardo28023-95837678777_100100/,calle del valle de toranzo,El Pardo,3000000,761,house
+552,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-97588830386_100500/,moncloa,El Plantío,2850000,1.600,house
+553,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-920676731_101800/,calle de agustín lara,Aravaca,800000,132,house
+554,https://pisos.com/en/comprar/casa_adosada-piovera28043-93412377436_107700/,"calle de bueso de pineda, near calle de asura",Piovera,849000,212,house
+555,https://pisos.com/en/comprar/chalet-hortaleza_palomas28042-99180802775_101800/,"calle de la isla de cuba, nº 8",Palomas,899000,388,house
+556,https://pisos.com/en/comprar/chalet-penagrande28035-97597027670_101800/,"calle de antonia baena, nº 15",Peñagrande,850000,400,house
+557,https://pisos.com/en/comprar/chalet-apostol_santiago-94168184869_100500/,"calle de vélez rubio, near calle de vélez blanco",Apóstol Santiago,370000,129,house
+558,https://pisos.com/en/comprar/casa-chamartin_el_viso28006-90032569174_100500/,el viso,El Viso,3250000,306,house
+559,https://pisos.com/en/comprar/chalet-hortaleza_palomas28042-97544919534_100500/,avenida de logroño,Palomas,990000,625,house
+560,https://pisos.com/en/comprar/chalet-san_blas_salvador28027-97560064004_100500/,madrid,Salvador,848500,336,house
+561,https://pisos.com/en/comprar/casa_adosada-valdemarin-92549236013_100100/,moncloa,Valdemarín,1500000,425,house
+562,https://pisos.com/en/comprar/casa-piovera28043-82510113547_101600/,hortaleza - piovera,Piovera,3900000,1.478,house
+563,https://pisos.com/en/comprar/casa_adosada-usera_pradolongo28026-945856909722471_109800/,"calle de mariano vela, nº 45",Pradolongo,320000,180,house
+564,https://pisos.com/en/comprar/casa-chamartin_el_viso28002-98373761930_101800/,avenida del doctor arce,El Viso,8700000,700,house
+565,https://pisos.com/en/comprar/chalet-ciudad_lineal_colina28043-808960945_381300/,ciudad lineal,Colina,875000,400,house
+566,https://pisos.com/en/comprar/chalet-san_blas_canillejas28022-1734261285_108900/,canillejas,Canillejas,1145000,480,house
+567,https://pisos.com/en/comprar/chalet_adosado-penagrande28035-99195175249_102100/,ciudad universitaria,Peñagrande,720000,256,house
+568,https://pisos.com/en/comprar/chalet_unifamiliar-castilla28016-92538666540_212600/,las rozas de madrid,Castilla,1170000,650,house
+569,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9856567645_109700/,"calle charquilla,  s/n",El Cañaveral,354000,248,house
+570,https://pisos.com/en/comprar/casa-concepcion-1723324255_100500/,concepción,Concepción,640000,149,house
+571,https://pisos.com/en/comprar/casa_adosada-chamartin_ciudad_jardin28002-97576829764_101800/,calle de la pedriza,Ciudad Jardín,755000,145,house
+572,https://pisos.com/en/comprar/casa_adosada-moncloa_aravaca_aravaca28023-1671715488_101800/,calle de garcía de la parra,Aravaca,450000,227,house
+573,https://pisos.com/en/comprar/chalet_pareado-valdeacederas28039-95021730473_102100/,bellavista,Valdeacederas,910000,145,house
+574,https://pisos.com/en/comprar/chalet-mirasierra28034-75069919331_108500/,mirasierra-arroyo del fresno,Mirasierra-Arroyo del Fresno,3995000,700,house
+575,https://pisos.com/en/comprar/chalet-penagrande28035-97506951556_100500/,peñagrande,Peñagrande,850000,414,house
+576,https://pisos.com/en/comprar/chalet-rejas28022-95032197178_101800/,san blas - rejas,Rejas,610000,291,house
+577,https://pisos.com/en/comprar/casa-piovera28043-98382682412_100500/,piovera,Piovera,1825000,845,house
+578,https://pisos.com/en/comprar/casa-nueva_espana28016-95034632340_101800/,chamartín - nueva españa,Nueva España,1590000,252,house
+579,https://pisos.com/en/comprar/casa_adosada-hortaleza_palomas28042-93408999564_100500/,"avenida de las azaleas, nº 39",Palomas,1340000,334,house
+580,https://pisos.com/en/comprar/casa-las_aguilas28024-99172916543_100500/,las águilas,Las Águilas,600000,127,house
+581,https://pisos.com/en/comprar/casa_adosada-ciudad_universitaria28035-90900717887_101800/,calle de la isla de alegranza,Ciudad Universitaria,1450000,400,house
+582,https://pisos.com/en/comprar/chalet-mirasierra_arroyo_del_fresno28034-1691197585_109300/,mirasierra-arroyo del fresno,Mirasierra-Arroyo del Fresno,840000,300,house
+583,https://pisos.com/en/comprar/chalet-ensanche_de_vallecas_valdecarros28051-93352494386_102100/,ensanche de vallecas,Ensanche de Vallecas-Valdecarros,595000,265,house
+584,https://pisos.com/en/comprar/chalet-tetuan_cuatro_caminos28046-95834773346_100500/,plaza del poeta manuel del palacio,Cuatro Caminos,4999999,524,house
+585,https://pisos.com/en/comprar/casa_adosada-mirasierra28034-92540429923_101800/,calle de peña dorada,Mirasierra-Arroyo del Fresno,840000,303,house
+586,https://pisos.com/en/comprar/chalet-penagrande28035-910802990_100500/,calle de antonia baena,Peñagrande,850000,383,house
+587,https://pisos.com/en/comprar/chalet-san_blas_salvador28027-99211337001_100500/,calle de maría lombillo,Salvador,957500,445,house
+588,https://pisos.com/en/comprar/chalet-chamartin_el_viso28002-75856784516_108900/,el viso,El Viso,2450000,416,house
+589,https://pisos.com/en/comprar/casa_unifamiliar-castilla28016-57591843276_101600/,"avenida de pío xii, near calle de josé bardasano baos",Castilla,2999000,725,house
+590,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio28023-80071132021_107200/,moncloa,El Plantío,2350000,700,house
+591,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9870538419_109700/,"calle charquilla,  s/n",El Cañaveral,354100,248,house
+592,https://pisos.com/en/comprar/casa-chamartin_el_viso28016-86679066597_517093/,el viso,El Viso,8700000,856,house
+593,https://pisos.com/en/comprar/chalet-moncloa_aravaca_aravaca28023-86734582544_107200/,calle de villager,Aravaca,1795000,400,house
+594,https://pisos.com/en/comprar/casa_unifamiliar-moncloa_aravaca_el_plantio-88363077707_101800/,"calle guecho, near calle de lasarte",El Plantío,3300000,1.000,house
+595,https://pisos.com/en/comprar/casa_pareada-fuentelarreina28035-77548151205_101600/,calle de la alberca,Fuentelarreina,1750000,500,house
+596,https://pisos.com/en/comprar/chalet-san_blas_salvador28027-88423251995_108900/,salvador,Salvador,650000,260,house
+597,https://pisos.com/en/comprar/casa_adosada-carabanchel_san_isidro28019-100012665023_100500/,madrid,San Isidro,270000,105,house
+598,https://pisos.com/en/comprar/casa-valdemarin-900861856_100100/,moncloa,Valdemarín,2800000,750,house
+599,https://pisos.com/en/comprar/casa_pareada-piovera28043-1676936231_101800/,hortaleza - conde orgaz - piovera,Piovera,1300000,302,house
+600,https://pisos.com/en/comprar/casa-chamartin_el_viso28002-95078116052_101800/,calle del segre,El Viso,5000000,750,house
+601,https://pisos.com/en/comprar/chalet-ciudad_universitaria28035-98345309388_100500/,puerta de hierro,Ciudad Universitaria,1199000,413,house
+602,https://pisos.com/en/comprar/casa-chamartin_el_viso28006-97572770390_101800/,chamartín - el viso,El Viso,3250000,306,house
+603,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9810153877_109700/,"calle charquilla,  s/n",El Cañaveral,353000,248,house
+604,https://pisos.com/en/comprar/chalet_adosado-carabanchel_san_isidro28019-96708980794_102100/,opañel,San Isidro,315000,305,house
+605,https://pisos.com/en/comprar/casa_adosada-moncloa_aravaca_aravaca28023-99199942725_101800/,moncloa - aravaca,Aravaca,695000,189,house
+606,https://pisos.com/en/comprar/casa_pareada-valdezarza28039-99184532138_100100/,avenida de los mártires maristas,Valdezarza,1680000,457,house
+607,https://pisos.com/en/comprar/chalet-ciudad_universitaria28023-863210156_101800/,moncloa - ciudad universitaria,Ciudad Universitaria,1950000,380,house
+608,https://pisos.com/en/comprar/chalet-hortaleza_palomas28042-98342784017_100500/,avenida de logroño,Palomas,990000,625,house
+609,https://pisos.com/en/comprar/casa-moncloa_aravaca_aravaca28023-90085309867_101800/,calle barrial,Aravaca,3900000,1.225,house
+610,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-98427934330_100500/,calle de amorebieta,El Plantío,2752800,1.245,house
+611,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9803493124_109700/,"calle charquilla,  s/n",El Cañaveral,352000,248,house
+612,https://pisos.com/en/comprar/casa-villaverde_san_andres28021-1679372168_103800/,villaverde alto,San Andrés,330000,505,house
+613,https://pisos.com/en/comprar/chalet-piovera28043-79241366025_108900/,piovera,Piovera,2500000,624,house
+614,https://pisos.com/en/comprar/casa_pareada-carabanchel_comillas28019-99225860790_100100/,carabanchel,Comillas,285000,95,house
+615,https://pisos.com/en/comprar/chalet_adosado-tetuan_almenara28029-93361031141_102100/,ciudad universitaria,Almenara,975000,430,house
+616,https://pisos.com/en/comprar/chalet-jeronimos28014-93402367278_102100/,reina cristina,Jerónimos,800000,86,house
+617,https://pisos.com/en/comprar/casa_adosada-san_blas_salvador28027-95076495242_102200/,salvador,Salvador,870000,367,house
+618,https://pisos.com/en/comprar/chalet-valdemarin-97548356242_101800/,moncloa - valdemarín,Valdemarín,6500000,1.267,house
+619,https://pisos.com/en/comprar/chalet-guindalera28028-75856268189_109300/,salamanca,Guindalera,800000,213,house
+620,https://pisos.com/en/comprar/casa_pareada-penagrande28035-92511769767_101800/,fuencarral - peñagrande,Peñagrande,1025000,520,house
+621,https://pisos.com/en/comprar/chalet-moncloa_aravaca_el_plantio-100003304357_100500/,"calle de amorebieta, nº 25",El Plantío,2294000,1.245,house
+622,https://pisos.com/en/comprar/chalet_unifamiliar-apostol_santiago-945856909735597_109800/,"calle de navaleno, nº 8",Apóstol Santiago,1100000,369,house
+623,https://pisos.com/en/comprar/chalet-hortaleza_palomas28042-99181684458_100500/,"avenida de logroño, nº 10",Palomas,990000,541,house
+624,https://pisos.com/en/comprar/chalet_adosado-castilla28036-945856909712318_109800/,"calle de mateo inurria, nº 8",Castilla,2300000,350,house
+625,https://pisos.com/en/comprar/chalet_unifamiliar-nueva_espana28016-945856909709571_109800/,"calle de las hortensias, nº 11",Nueva España,3800000,800,house
+626,https://pisos.com/en/comprar/casa-villaverde_los_rosales28021-945856909717491_109800/,"calle de martínez oviol, nº 56",Los Rosales,165000,140,house
+627,https://pisos.com/en/comprar/casa-chamartin_el_viso28002-80841613468_101600/,chamartín - el viso,El Viso,5800000,848,house
+628,https://pisos.com/en/comprar/casa_adosada-latina_aluche28047-945856909733585_109800/,"calle de ariza, nº 128",Aluche,209900,150,house
+629,https://pisos.com/en/comprar/casa_adosada-piovera28043-92507425184_101800/,hortaleza - piovera,Piovera,3200000,894,house
+630,https://pisos.com/en/comprar/casa_pareada-san_blas_canillejas28022-945856909736137_109800/,calle del discóbolo,Canillejas,795000,,house
+631,https://pisos.com/en/comprar/casa-piovera28043-92587432292_101800/,hortaleza - piovera,Piovera,2200000,443,house
+632,https://pisos.com/en/comprar/casa-chamartin_el_viso28006-80888580838_101600/,chamartín - el viso,El Viso,2500000,369,house
+633,https://pisos.com/en/comprar/chalet-piovera28043-91704828762_101800/,hortaleza - piovera,Piovera,3100000,750,house
+634,https://pisos.com/en/comprar/casa-piovera28043-90861104707_101800/,hortaleza - piovera,Piovera,2500000,850,house
+635,https://pisos.com/en/comprar/casa_adosada-piovera28043-80868721506_101600/,hortaleza - piovera,Piovera,1800000,452,house
+636,https://pisos.com/en/comprar/casa_adosada-el_canaveral-8967642515_109700/,"calle concejal victorino granizo y c/ alto del esparraga,  s/n",El Cañaveral,374000,184,house
+637,https://pisos.com/en/comprar/chalet-el_canaveral-9567591905_109700/,"calle ferenc puskas,  151",El Cañaveral,440000,173,house
+638,https://pisos.com/en/comprar/casa_adosada-el_canaveral-8968939298_109700/,"calle concejal victorino granizo y c/ alto del esparraga,  s/n",El Cañaveral,378000,192,house
+639,https://pisos.com/en/comprar/chalet-el_canaveral-104662233_109700/,"calle ferenc puskas,  151",El Cañaveral,442000,166,house
+640,https://pisos.com/en/comprar/chalet-el_canaveral-9567167246_109700/,"calle ferenc puskas,  151",El Cañaveral,446000,167,house
+641,https://pisos.com/en/comprar/casa_adosada-el_canaveral-9858009290_109700/,"calle mayorazgo de duarte,  s/n",El Cañaveral,349500,155,house
+642,https://pisos.com/en/comprar/casa_adosada-madrid_capital_zona_urbana-98388903943_108800/,"calle de los jardines, nº 34",Madrid Capital,185000,,house
+643,https://pisos.com/en/comprar/casa_adosada-madrid_capital_zona_urbana-94205829872_108800/,pezuela de las torres,Madrid Capital,66000,92,house
+644,https://pisos.com/en/comprar/casa_adosada-madrid_capital_zona_urbana-93416381216_108800/,villavieja del lozoya,Madrid Capital,99411,42,house
+645,https://pisos.com/en/comprar/chalet_unifamiliar-rejas28022-945856909595679_109800/,"avenida séptima, nº 5",Rejas,990000,655,house
+646,https://pisos.com/en/comprar/casa_adosada-madrid_capital_zona_urbana-95897926583_108800/,talamanca de jarama,Madrid Capital,44900,111,house
+647,https://pisos.com/en/comprar/chalet_unifamiliar-fuencarral_el_pardo_el_pardo28035-945856909408696_109800/,"calle barrio dehesa de la villa madrid, nº s/n",El Pardo,980000,750,house
+648,https://pisos.com/en/comprar/chalet-madrid_capital_zona_urbana-95899981173_108800/,villar del olmo,Madrid Capital,165448,160,house
+649,https://pisos.com/en/comprar/casa_adosada-madrid_capital_zona_urbana-839314029_108800/,venturada,Madrid Capital,279700,220,house
+650,https://pisos.com/en/comprar/chalet_unifamiliar-fuencarral_el_pardo_el_pardo28035-945856909408240_109800/,"calle barrio dehesa de la villa madrid, nº s/n",El Pardo,980000,750,house
+651,https://pisos.com/en/comprar/chalet_adosado-orcasitas-945856909490014_109800/,"calle de leiza, nº 113",Orcasitas,220000,,house
+652,https://pisos.com/en/comprar/chalet-madrid_capital_zona_urbana-98367597436_108800/,nuevo baztán,Madrid Capital,188898,,house
+653,https://pisos.com/en/comprar/chalet-madrid_capital_zona_urbana-92581745952_108800/,pezuela de las torres,Madrid Capital,122651,154,house
+654,https://pisos.com/en/comprar/chalet_unifamiliar-valdebebas_valdefuentes28050-945856909639351_109800/,"calle de los hermanos gascón, nº 36",Valdebebas-Valdefuentes,680000,600,house
